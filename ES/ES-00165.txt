@@ -121,7 +121,7 @@ uso.
 P261 - Evitar respirar el polvo/el humo/el gas/la niebla/los vapores/ el 
 aerosol. (El fabricante o el proveedor especificarán las condiciones 
 aplicables) 
- Página 2 de 3                                92316
+ Página 2 de 3                                102016
 Nº REGISTRO: 
 CHECKMATE PUFFER LB 
  
@@ -172,4 +172,4 @@ P410+P412: Proteger de la luz del sol. No exponer a temperaturas superiores a 50
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 3 de 3                                92316
+ Página 3 de 3                                102016

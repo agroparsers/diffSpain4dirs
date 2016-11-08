@@ -124,7 +124,7 @@ Palabra
 Advertencia 
 Frases de Riesgo H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
 duraderos.  
- Página 2 de 3                                92316
+ Página 2 de 3                                102016
 Nº REGISTRO: 
 TOSCANA 
  
@@ -167,4 +167,4 @@ Requerimiento de datos/estudios complementarios:
 Task Force mismo dossier que TRIMUR (ES-00089) 
   
  
- Página 3 de 3                                92316
+ Página 3 de 3                                102016

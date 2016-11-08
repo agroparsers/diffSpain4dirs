@@ -119,15 +119,15 @@ Toxicidad aguda (oral, cutánea, por inhalación). Categoría 4.
 Clase y categoría 
 de peligro 
 (Humana) 
+ Página 2 de 4                                102016
+Nº REGISTRO: 
+CELEST EXTRA 
+ 
 Pictograma 
 GSH07 (signo de exclamación)  
 Atención 
 Palabra 
 Advertencia 
- Página 2 de 4                                92316
-Nº REGISTRO: 
-CELEST EXTRA 
- 
 H332 - Nocivo en caso de inhalación.  
 Indicaciones de 
 peligro 
@@ -140,14 +140,17 @@ P262 - Evitar el contacto con los ojos, la piel o la ropa.
 P304+P340 - EN CASO DE INHALACIÓN: Transportar a la víctima al 
 exterior y mantenerla en reposo en una posición confortable para 
 respirar. 
-Clase y categoría Acuático crónico 1 
+Acuático crónico 1 
+Clase y categoría 
 de peligro 
 (Medio ambiental) 
 Pictograma 
 GSH09 (medio ambiente)  
-Palabra Atención 
+Atención 
+Palabra 
 Advertencia 
-Frases de Riesgo H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
+H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
+Frases de Riesgo 
 duraderos.  
 P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
 Consejos 
@@ -178,17 +181,17 @@ En la etiqueta se indicará que los sacos o envases de semillas deberán llevar 
 una etiqueta el texto siguiente: " Semilla tratada con difenoconazol y fludioxonil, inhabilitada 
 para consumo; destinarla exclusivamente para siembra, no reutilizar los envases vacíos". 
 En la etiqueta se hará constar que "contiene 1,2-benzisotiazol-3(2H)-ona, nº CAS:2634-33-
+ Página 3 de 4                                102016
+Nº REGISTRO: 
+CELEST EXTRA 
+ 
 5". Puede provocar una reacción alérgica. 
  "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE SIGA LAS 
 INTRUCCIONES DE USO," en caracteres que resalten el texto 
   
- Página 3 de 4                                92316
-Nº REGISTRO: 
-CELEST EXTRA 
- 
 Condiciones de almacenamiento: -- 
   
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

@@ -52,29 +52,26 @@ Envases:
 Presentación/Capacidad/Material 
 Envases HDPE de 1; 5; 10 y 20 l y envases de PET de 1 l. 
   
-Usos y dosis autorizados:  
-  
-       
-  Dosis Nº   FORMA Y ÉPOCA DE APLICACIÓN 
-USO AGENTE Min- Aplic. Intervalos Vol. (Condic.Específico) 
-máx. Caldo 
-Aplicación al aire libre desde el comienzo 
-150-600 de la cobertura del cultivo (10 % de las 
-Patata ALTERNARIA 0,6 l/ha 3 7 
-l/ha plantas se tocan entre las hileras) hasta el 
-comienzo del amarilleamiento de las hojas. 
  
      Página 1 de 4       Nº REGISTRO:   ES-00066  
 CARIAL TOP
 Nº REGISTRO: 
 CARIAL TOP 
  
+Usos y dosis autorizados:  
+  
        
   Dosis Nº   FORMA Y ÉPOCA DE APLICACIÓN 
 USO AGENTE Min- Aplic. Intervalos Vol. (Condic.Específico) 
 máx. Caldo 
 MILDIU 
+Aplicación al aire libre desde el comienzo 
+150-600 de la cobertura del cultivo (10 % de las 
+Patata 0,6 l/ha 3 7 
+l/ha plantas se tocan entre las hileras) hasta el 
+comienzo del amarilleamiento de las hojas. 
 ALTERNARIA 
+MILDIU 
 Aplicar al aire libre y en invernadero desde 
 200- que el primer brote apical lateral primario 
 60 - 300 
@@ -82,7 +79,7 @@ Tomate 3 7 1000 es visible hasta la madurez completa de los
 cc/hl 
 l/ha frutos (tienen el color típico de la 
 madurez). Máximo: 0.6 l/ha. 
-MILDIU 
+ALTERNARIA 
   
 Plazos de Seguridad (Protección del consumidor):  
   
@@ -93,8 +90,13 @@ Patata, Tomate 3
 Fecha de Liberación (Protección de Datos): 
  
 Cultivo - Agente Fecha de Liberación 
-Patata,Tomate - ALTERNARIA 04/07/2026 
 Patata,Tomate - MILDIU 04/07/2026 
+ Página 2 de 4                                102016
+Nº REGISTRO: 
+CARIAL TOP 
+ 
+Cultivo - Agente Fecha de Liberación 
+Patata,Tomate - ALTERNARIA 04/07/2026 
  
 Condiciones generales de uso:   
 Aplicar en pulverización foliar normal. En la etiqueta se darán instrucciones para el correcto 
@@ -108,10 +110,6 @@ Excepciones: --
 Clase de usuario:   
 Uso reservado a agricultores y aplicadores profesionales 
   
- Página 2 de 4                                92316
-Nº REGISTRO: 
-CARIAL TOP 
- 
 Mitigación de riesgos en la manipulación:   
 SPo 5: Ventilar las zonas/los invernaderos tratados [bien/durante un tiempo 
 especificado/hasta que se haya secado la pulverización] antes de volver a entrar. 
@@ -153,6 +151,10 @@ GSH09 (medio ambiente)
 Atención 
 Palabra 
 Advertencia 
+ Página 3 de 4                                102016
+Nº REGISTRO: 
+CARIAL TOP 
+ 
 H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
 Frases de Riesgo 
 duraderos.  
@@ -170,10 +172,6 @@ Mitigación de riesgos ambientales:
 SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad 
 de 10 m hasta las masas de agua superficial 
   
- Página 3 de 4                                92316
-Nº REGISTRO: 
-CARIAL TOP 
- 
  Eliminación Producto y/o caldo:   
 NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE. (No 
 limpiar el equipo de aplicación del producto cerca de aguas superficiales/Evítese la 
@@ -204,4 +202,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

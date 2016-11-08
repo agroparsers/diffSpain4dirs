@@ -65,7 +65,7 @@ máx.
 Ajos ROYA 
 l/ha maduración del bulbo, con un volumen de caldo de 300-800 l/Ha. 
  
-     Página 1 de 7       Nº REGISTRO:   ES-00009  
+     Página 1 de 8       Nº REGISTRO:   ES-00009  
 luna experience
 Nº REGISTRO: 
 luna experience 
@@ -84,12 +84,10 @@ Albaricoquero
 nota) de 500-1.500 l/Ha. de caldo en ambos casos, desde el momento de la 
 floración hasta el inicio de la recolección. 
 MONILIA 
-ROYA 
 0,6 - 1 Efectuar una aplicación desde la aparición de la 3ª hoja hasta la 
-Cebolla STEMFILIUM 
+Cebolla ROYA 
 l/ha maduración del bulbo, con un volumen de caldo de 300-800 l/Ha. 
-BOTRITIS 
- Página 2 de 7                                92316
+ Página 2 de 8                                102016
 Nº REGISTRO: 
 luna experience 
  
@@ -97,6 +95,8 @@ luna experience
   Dosis FORMA Y ÉPOCA DE APLICACIÓN 
 USO AGENTE Min- (Condic.Específico) 
 máx. 
+STEMFILIUM 
+BOTRITIS 
 ESCLEROTINIA 
 MONILIA 
 Efectuar una aplicación a dosis de 0,2-0,7 l/Ha. o bien dos aplicaciones a 
@@ -105,14 +105,7 @@ Cerezo
 nota) de 500-1.500 l/Ha. de caldo en ambos casos, desde el momento de la 
 floración hasta el inicio de la recolección. 
 OIDIO 
-ALTERNARIA 
-Efectuar una aplicación a dosis de 0,2-0,75 l/Ha. o 2 aplicaciones a dosis 
- (ver 
-Manzano OIDIO de 0,2-0-45 l/Ha., tratando desde la floración hasta el inicio de la 
-nota) 
-recolección con un volumen de caldo de 500-1.500 l/Ha. de caldo. 
-MOTEADO 
- Página 3 de 7                                92316
+ Página 3 de 8                                102016
 Nº REGISTRO: 
 luna experience 
  
@@ -120,12 +113,26 @@ luna experience
   Dosis FORMA Y ÉPOCA DE APLICACIÓN 
 USO AGENTE Min- (Condic.Específico) 
 máx. 
-MONILIA 
+ALTERNARIA 
+Efectuar una aplicación a dosis de 0,2-0,75 l/Ha. o 2 aplicaciones a dosis 
+ (ver 
+Manzano OIDIO de 0,2-0-45 l/Ha., tratando desde la floración hasta el inicio de la 
+nota) 
+recolección con un volumen de caldo de 500-1.500 l/Ha. de caldo. 
+MOTEADO 
 Efectuar una aplicación a dosis de 0,2-0,7 l/Ha. o bien dos aplicaciones a 
  (ver dosis de 0,2-0,38 l/Ha. con un intervalo mínimo de 7 días y un volumen 
-Melocotonero 
+Melocotonero MONILIA 
 nota) de 500-1.500 l/Ha. de caldo en ambos casos, desde el momento de la 
 floración hasta el inicio de la recolección. 
+ Página 4 de 8                                102016
+Nº REGISTRO: 
+luna experience 
+ 
+    
+  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
+USO AGENTE Min- (Condic.Específico) 
+máx. 
 OIDIO 
 OIDIO 
 Efectuar una aplicación a dosis de 0,2-0,7 l/Ha. o bien dos aplicaciones a 
@@ -139,7 +146,7 @@ Efectuar una aplicación a dosis de 0,2-0,75 l/Ha. o 2 aplicaciones a dosis
 Peral ALTERNARIA de 0,2-0-45 l/Ha., tratando desde la floración hasta el inicio de la 
 nota) 
 recolección con un volumen de caldo de 500-1.500 l/Ha. de caldo. 
- Página 4 de 7                                92316
+ Página 5 de 8                                102016
 Nº REGISTRO: 
 luna experience 
  
@@ -168,6 +175,10 @@ Melocotonero, Nectarino
  
  
 Condiciones generales de uso:   
+ Página 6 de 8                                102016
+Nº REGISTRO: 
+luna experience 
+ 
 Aplicar en pulverización normal 
  
 Excepciones: -- 
@@ -175,10 +186,6 @@ Excepciones: --
 Clase de usuario: -- 
   
 Mitigación de riesgos en la manipulación:   
- Página 5 de 7                                92316
-Nº REGISTRO: 
-luna experience 
- 
 El aplicador  deberá  utilizar  guantes  de  protección durante la mezcla/carga, aplicación y al 
 manipular el equipo de aplicación o superficies contaminadas, además durante la aplicación 
 con tractor (si no va dotado de cabina cerrada) en frutales y vid y con mochila en ajos y cebolla 
@@ -200,8 +207,7 @@ de peligro
 (Humana) 
 Pictograma 
 GSH08 (peligro para la salud)  
-Atención 
-Palabra 
+Palabra Atención 
 Advertencia 
 Indicaciones de EUH 401 - A fin de evitar riesgos para las personas y el medio 
 ambiente, siga las instrucciones de uso. 
@@ -228,6 +234,10 @@ P405 - Guardar bajo llave.
 Clase y categoría Acuático crónico 1 
 de peligro 
 (Medio ambiental) 
+ Página 7 de 8                                102016
+Nº REGISTRO: 
+luna experience 
+ 
 Pictograma 
 GSH09 (medio ambiente)  
 Atención 
@@ -236,12 +246,7 @@ Advertencia
 H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
 Frases de Riesgo 
 duraderos.  
- Página 6 de 7                                92316
-Nº REGISTRO: 
-luna experience 
- 
-P201 - Pedir instrucciones especiales antes del uso. 
-Consejos 
+Consejos P201 - Pedir instrucciones especiales antes del uso. 
 P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
 Prudencia 
 previsto) 
@@ -282,4 +287,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 7 de 7                                92316
+ Página 8 de 8                                102016

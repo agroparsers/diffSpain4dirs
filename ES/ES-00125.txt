@@ -112,7 +112,7 @@ formación de grietas en la piel.
 peligro 
 H319 - Provoca irritación ocular grave. 
 H335 - Puede irritar las vías respiratorias.  
- Página 2 de 4                                92316
+ Página 2 de 4                                102016
 Nº REGISTRO: 
 TEC-BOM 
  
@@ -173,7 +173,7 @@ sistema de depósito, devolución y retorno
 Otras indicaciones reglamentarias:   
 "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE SIGA LAS 
 INTRUCCIONES DE USO," en caracteres que resalten el texto. 
- Página 3 de 4                                92316
+ Página 3 de 4                                102016
 Nº REGISTRO: 
 TEC-BOM 
  
@@ -186,4 +186,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

@@ -64,7 +64,7 @@ Aplicar a toda la superficie desde la plantación y siempre antes de
 Alcachofa CARACOLES 5 
 la aparición de las cabezas. 
  
-     Página 1 de 6       Nº REGISTRO:   ES-00046  
+     Página 1 de 7       Nº REGISTRO:   ES-00046  
 METAREX INOV
 Nº REGISTRO: 
 METAREX INOV 
@@ -98,17 +98,10 @@ Aplicar al suelo por toda la superficie, antes de la caída de los
 Cítricos 5 
 pétalos. 
 BABOSAS 
-CARACOLES 
 Aplicar en las líneas de siembra o en toda la superficie, desde la 
-Cultivos industriales 5 
+Cultivos industriales CARACOLES 5 
 siembra hasta que las plantas tengan 7 hojas verdaderas. 
-BABOSAS 
-CARACOLES 
-Aplicar en invernadero a toda la superficie o en la línea de cultivo, 
-Fresales 5 
-desde la plantación hasta el final de la floración. 
-BABOSAS 
- Página 2 de 6                                92316
+ Página 2 de 7                                102016
 Nº REGISTRO: 
 METAREX INOV 
  
@@ -117,6 +110,12 @@ METAREX INOV
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 Kg/ha  
+BABOSAS 
+CARACOLES 
+Aplicar en invernadero a toda la superficie o en la línea de cultivo, 
+Fresales 5 
+desde la plantación hasta el final de la floración. 
+BABOSAS 
 CARACOLES 
 Frutales de hoja Aplicar al suelo por toda la superficie, antes de la caída de los 
 5 
@@ -134,6 +133,15 @@ Hortalizas del género Aplicar a toda la superficie desde la siembra o plantaci�
 5 
 brassica inicio de formación de los cogollos. 
 BABOSAS 
+ Página 3 de 7                                102016
+Nº REGISTRO: 
+METAREX INOV 
+ 
+    
+  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
+USO AGENTE Min- (Condic.Específico) 
+máx. 
+Kg/ha  
 CARACOLES 
 Aplicar a toda la superficie o en la línea de cultivo, desde la 
 Leguminosas 4 
@@ -149,7 +157,15 @@ Ornamentales
 5 Aplicar a toda la superficie en cualquier estado del cultivo. 
 herbáceas 
 BABOSAS 
- Página 3 de 6                                92316
+CARACOLES 
+Aplicar a toda la superficie desde la siembra hasta el comienzo de 
+Patata 5 
+desecación de las hojas. 
+BABOSAS 
+Praderas temporales. Aplicar a toda la superficie desde la siembra 
+Praderas CARACOLES 5 
+hasta 49 días antes del pastoreo o la siega. 
+ Página 4 de 7                                102016
 Nº REGISTRO: 
 METAREX INOV 
  
@@ -158,15 +174,6 @@ METAREX INOV
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 Kg/ha  
-CARACOLES 
-Aplicar a toda la superficie desde la siembra hasta el comienzo de 
-Patata 5 
-desecación de las hojas. 
-BABOSAS 
-CARACOLES 
-Praderas temporales. Aplicar a toda la superficie desde la siembra 
-Praderas 5 
-hasta 49 días antes del pastoreo o la siega. 
 BABOSAS 
 BABOSAS 
 Aplicar a toda la superficie o en las líneas de cultivo desde la 
@@ -191,10 +198,6 @@ Remolacha, Vid
   
  
  
- Página 4 de 6                                92316
-Nº REGISTRO: 
-METAREX INOV 
- 
  
 Condiciones generales de uso:   
 Aplicar al suelo a voleo o localizado en la línea de cultivo, manualmente o mediante 
@@ -202,6 +205,10 @@ maquinaria adecuada, efectuando hasta 2 aplicaciones a intervalos de 5 días
  
 Excepciones:   
  Excepto cacahuete  
+ Página 5 de 7                                102016
+Nº REGISTRO: 
+METAREX INOV 
+ 
   
 Clase de usuario:   
 Uso reservado a agricultores y aplicadores profesionales 
@@ -235,7 +242,8 @@ Palabra
 Advertencia 
 Frases de Riesgo 
  
-Consejos  
+Consejos 
+ 
 Prudencia 
   
  “A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE 
@@ -247,10 +255,6 @@ Es peligroso para los animales domésticos. Mantener los animales domésticos al
  Eliminación Producto y/o caldo:   
  
 Gestión de envases:   
- Página 5 de 6                                92316
-Nº REGISTRO: 
-METAREX INOV 
- 
 Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases 
 de productos fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los 
 envases vacíos o resíduos de envases bien en los puntos de recogida establecidos por los 
@@ -259,6 +263,10 @@ donde se hubiera adquirido si dichos envases se han puesto en el mercado a trav�
 sistema de depósito, devolución y retorno 
   
 Otras indicaciones reglamentarias:   
+ Página 6 de 7                                102016
+Nº REGISTRO: 
+METAREX INOV 
+ 
 SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE. (No limpiar 
 el equipo de aplicación del producto cerca de aguas superficiales/Evitese la contaminación a 
 través de los sistemas de evacuación de aguas de las explotaciones o de los caminos) 
@@ -268,4 +276,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 6 de 6                                92316
+ Página 7 de 7                                102016

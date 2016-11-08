@@ -64,16 +64,20 @@ Kg/ha
 Avena DICOTILEDONEAS ANUALES 0,02 1 100-600 l/ha 
 Cebada DICOTILEDONEAS ANUALES 0,02 1 100-600 l/ha 
 Centeno DICOTILEDONEAS ANUALES 0,02 1 100-600 l/ha 
-Trigo DICOTILEDONEAS ANUALES 0,02 1 100-600 l/ha 
-Triticale DICOTILEDONEAS ANUALES 0,02 1 100-600 l/ha 
-  
-Plazos de Seguridad (Protección del consumidor):  
  
      Página 1 de 4       Nº REGISTRO:   ES-00128  
 TBM 75 WG
 Nº REGISTRO: 
 TBM 75 WG 
  
+     
+  Dosis Nº Aplic.  
+USO AGENTE Min-máx. Vol. Caldo 
+Kg/ha  
+Trigo DICOTILEDONEAS ANUALES 0,02 1 100-600 l/ha 
+Triticale DICOTILEDONEAS ANUALES 0,02 1 100-600 l/ha 
+  
+Plazos de Seguridad (Protección del consumidor):  
   
 Cultivo P.S. (días) 
 Avena, Cebada, Centeno, Trigo, Triticale N.P. 
@@ -113,19 +117,18 @@ de peligro
 (Humana) 
 Pictograma 
 GSH07 (signo de exclamación)  
-Atención 
-Palabra 
+Palabra Atención 
 Advertencia 
+ Página 2 de 4                                102016
+Nº REGISTRO: 
+TBM 75 WG 
+ 
 EUH 401 - A fin de evitar riesgos para las personas y el medio 
 Indicaciones de 
 ambiente, siga las instrucciones de uso. 
 peligro 
 H317 - Puede provocar una reacción alérgica en la piel. 
 H319 - Provoca irritación ocular grave.  
- Página 2 de 4                                92316
-Nº REGISTRO: 
-TBM 75 WG 
- 
 P261 - Evitar respirar el polvo/el humo/el gas/la niebla/los vapores/ el 
 Consejos de 
 aerosol. (El fabricante o el proveedor especificarán las condiciones 
@@ -154,7 +157,8 @@ Advertencia
 H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
 Frases de Riesgo 
 duraderos.  
-Consejos P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
+P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
+Consejos 
 previsto) 
 Prudencia 
 P391 - Recoger el vertido. 
@@ -178,14 +182,14 @@ o de los caminos).
 Gestión de envases:   
 Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases 
 de productos fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los 
+ Página 3 de 4                                102016
+Nº REGISTRO: 
+TBM 75 WG 
+ 
 envases vacíos o resíduos de envases bien en los puntos de recogida establecidos por los 
 sistemas colectivos de responsabilidad ampliada (SIG) o directamente en el punto de venta 
 donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un 
 sistema de depósito, devolución y retorno 
- Página 3 de 4                                92316
-Nº REGISTRO: 
-TBM 75 WG 
- 
   
 Otras indicaciones reglamentarias:   
 SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE. (No limpiar 
@@ -197,4 +201,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

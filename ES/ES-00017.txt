@@ -59,14 +59,11 @@ Usos y dosis autorizados:
 USO AGENTE Min- Aplic. Intervalos Vol. APLICACIÓN 
 máx. Caldo (Condic.Específico) 
 l/ha  
-OIDIO 
+ROYAS 
 100-400 Aplicar a partir de la aparición 
 Avena 0,75 - 1 2 21-28 días 
 l/Ha. del primer nudo. 
-ROYAS 
-100-400 Aplicar a partir de la aparición 
-Cebada HELMINTOSPORIUM 0,75 - 1 2 21-28 días 
-l/Ha. del primer nudo. 
+OIDIO 
  
      Página 1 de 5       Nº REGISTRO:   ES-00017  
 ACANTO PLUS
@@ -78,39 +75,41 @@ ACANTO PLUS
 USO AGENTE Min- Aplic. Intervalos Vol. APLICACIÓN 
 máx. Caldo (Condic.Específico) 
 l/ha  
+RINCOSPORIUM 
+ROYAS 
+100-400 Aplicar a partir de la aparición 
+Cebada 0,75 - 1 2 21-28 días 
+l/Ha. del primer nudo. 
+HELMINTOSPORIUM 
 OIDIO 
 RINCOSPORIUM 
 ROYAS 
-OIDIO 
-SEPTORIA 
 Aplicar desde la aparición del 
 100-400 
 Centeno 0,75 - 1 2 21-28 días primer nudo hasta la plena 
 l/Ha. 
 floración. 
-ROYAS 
-RINCOSPORIUM 
-HELMINTOSPORIUM 
+SEPTORIA 
 OIDIO 
-FUSARIUM 
+HELMINTOSPORIUM 
+SEPTORIA 
+RINCOSPORIUM 
 Aplicar desde la aparición del 
 100-400 
 Trigo 0,75 - 1 2 21-28 días primer nudo hasta la plena 
 l/Ha. 
 floración. 
-SEPTORIA 
-RINCOSPORIUM 
 ROYAS 
-HELMINTOSPORIUM 
 OIDIO 
+FUSARIUM 
+HELMINTOSPORIUM 
 Aplicar desde la aparición del 
 100-400 
 Triticale 0,75 - 1 2 21-28 días primer nudo hasta la plena 
 l/Ha. 
 floración. 
-SEPTORIA 
-ROYAS 
- Página 2 de 5                                92316
+RINCOSPORIUM 
+ Página 2 de 5                                102016
 Nº REGISTRO: 
 ACANTO PLUS 
  
@@ -119,7 +118,9 @@ ACANTO PLUS
 USO AGENTE Min- Aplic. Intervalos Vol. APLICACIÓN 
 máx. Caldo (Condic.Específico) 
 l/ha  
-RINCOSPORIUM 
+ROYAS 
+SEPTORIA 
+OIDIO 
   
 Plazos de Seguridad (Protección del consumidor):  
   
@@ -155,16 +156,16 @@ Clase y categoría
 Tóxicos para la reproducción. Categoría 2. 
 de peligro 
 (Humana) 
+ Página 3 de 5                                102016
+Nº REGISTRO: 
+ACANTO PLUS 
+ 
 Pictograma 
 GSH07 (signo de exclamación)  
 GSH08 (peligro para la salud)  
 Atención 
 Palabra 
 Advertencia 
- Página 3 de 5                                92316
-Nº REGISTRO: 
-ACANTO PLUS 
- 
 EUH 401 - A fin de evitar riesgos para las personas y el medio 
 Indicaciones de 
 ambiente, siga las instrucciones de uso. 
@@ -216,6 +217,10 @@ una banda de seguridad de 10 m hasta las masas de agua superficial
  Eliminación Producto y/o caldo: -- 
  
 Gestión de envases:   
+ Página 4 de 5                                102016
+Nº REGISTRO: 
+ACANTO PLUS 
+ 
 Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al 
 depósito (del pulverizador). 
 Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases 
@@ -224,10 +229,6 @@ envases vacíos o resíduos de envases bien en los puntos de recogida establecid
 sistemas colectivos de responsabilidad ampliada (SIG) o directamente en el punto de venta 
 donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un 
 sistema de depósito, devolución y retorno 
- Página 4 de 5                                92316
-Nº REGISTRO: 
-ACANTO PLUS 
- 
   
 Otras indicaciones reglamentarias:   
 En la etiqueta se hará constar que "contiene 1,2-benzisotiazol-3(2H)-ona, nº CAS:2634-33-
@@ -238,4 +239,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 5 de 5                                92316
+ Página 5 de 5                                102016

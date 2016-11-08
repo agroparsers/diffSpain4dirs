@@ -109,16 +109,16 @@ indicaciones oportunas para el correcto uso del prodeucto
  
 Excepciones: -- 
   
+ Página 2 de 4                                102016
+Nº REGISTRO: 
+APPLAUD 25 SC 
+ 
 Clase de usuario:   
 Uso reservado a agricultores y aplicadores profesionales 
   
 Mitigación de riesgos en la manipulación:   
 El aplicador deberá utilizar guantes de protección durante la mezcla/carga, aplicación al 
 manipular el equipo de aplicación o superficies contaminadas, además durante la aplicación 
- Página 2 de 4                                92316
-Nº REGISTRO: 
-APPLAUD 25 SC 
- 
 si el tractor no dispone de cabina cerrada utilizará ropa tipo 6: contra sapicaduras de 
 productos líquidos, capucha y visera. 
 Plazo de reentrada: 22 días en olivar y 7 días en frutales y platanera. 
@@ -159,16 +159,22 @@ P362+364 - Quitar las prendas contaminadas y lavarlas antes de volver
 a usarlas. 
 P373 - NO luchar contra el incendio cuando el fuego llega a los 
 explosivos. 
-Clase y categoría Acuático crónico 2 
+Acuático crónico 2 
+Clase y categoría 
 de peligro 
 (Medio ambiental) 
 Pictograma 
 GSH09 (medio ambiente)  
-Palabra Atención 
+Atención 
+Palabra 
 Advertencia 
 H411 - Tóxico para los organismos acuáticos, con efectos nocivos 
 Frases de Riesgo 
 duraderos.  
+ Página 3 de 4                                102016
+Nº REGISTRO: 
+APPLAUD 25 SC 
+ 
 P391 - Recoger el vertido. 
 Consejos 
 P501 - Eliminar el contenido/el recipiente en (De conformidad con la 
@@ -177,10 +183,6 @@ normativa local, regional, nacional o internacional (especifíquese))
   
  “A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE 
 SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el texto. 
- Página 3 de 4                                92316
-Nº REGISTRO: 
-APPLAUD 25 SC 
- 
 Mitigación de riesgos ambientales:   
 SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad 
 de 16 m en frutales y olivo y 18 m. en platanera hasta las masas de agua superficial 
@@ -209,4 +211,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

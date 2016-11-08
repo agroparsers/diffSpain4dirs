@@ -86,7 +86,7 @@ BACTERIANO los pétalos (BBCH 60-69) y la segunda desde el cuajado
 (diámetro del fruto hasta 10 mm; los frutos que no han 
 cuajado, caen) hasta que los frutos alcanzan alrededor 
 del 50 % del tamaño varietal final (BBCH 71-75). 
- Página 2 de 5                                92316
+ Página 2 de 5                                102016
 Nº REGISTRO: 
 REGALIS PLUS 
  
@@ -125,16 +125,16 @@ Manzano, Peral NP
   
  
 Fecha de Liberación (Protección de Datos): 
+ Página 3 de 5                                102016
+Nº REGISTRO: 
+REGALIS PLUS 
+ 
  
 Cultivo - Agente Fecha de Liberación 
 Manzano,Peral - REGULAR CRECIMIENTO 30/05/2026 
 Manzano,Peral - FUEGO BACTERIANO 30/05/2026 
  
 Condiciones generales de uso:   
- Página 3 de 5                                92316
-Nº REGISTRO: 
-REGALIS PLUS 
- 
 Aplicar en pulverización. Dosis máxima 3 Kg/ha. En la etiqueta se darán las indicaciones 
 oportunas para la correcta aplicación del producto 
  
@@ -153,8 +153,7 @@ Evitar el contacto con el follaje húmedo durante la aplicación
   
 Clasificaciones y Etiquetado: 
  
-Sensibilizantes cutáneos. Categoría 1. 
-Clase y categoría 
+Clase y categoría Sensibilizantes cutáneos. Categoría 1. 
 de peligro 
 (Humana) 
 Pictograma 
@@ -162,12 +161,12 @@ GSH07 (signo de exclamación)
 Atención 
 Palabra 
 Advertencia 
-Indicaciones de EUH 401 - A fin de evitar riesgos para las personas y el medio 
+EUH 401 - A fin de evitar riesgos para las personas y el medio 
+Indicaciones de 
 ambiente, siga las instrucciones de uso. 
 peligro 
 H317 - Puede provocar una reacción alérgica en la piel.  
-P261 - Evitar respirar el polvo/el humo/el gas/la niebla/los vapores/ el 
-Consejos de 
+Consejos de P261 - Evitar respirar el polvo/el humo/el gas/la niebla/los vapores/ el 
 aerosol. (El fabricante o el proveedor especificarán las condiciones 
 Prudencia 
 aplicables) 
@@ -184,6 +183,10 @@ GSH09 (medio ambiente)
 Atención 
 Palabra 
 Advertencia 
+ Página 4 de 5                                102016
+Nº REGISTRO: 
+REGALIS PLUS 
+ 
 H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
 Frases de Riesgo 
 duraderos.  
@@ -194,10 +197,6 @@ Prudencia
 P391 - Recoger el vertido. 
 P501 - Eliminar el contenido/el recipiente en (De conformidad con la 
 normativa local, regional, nacional o internacional (especifíquese)) 
- Página 4 de 5                                92316
-Nº REGISTRO: 
-REGALIS PLUS 
- 
   
  “A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE 
 SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el texto. 
@@ -230,4 +229,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 5 de 5                                92316
+ Página 5 de 5                                102016

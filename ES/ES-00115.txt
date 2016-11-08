@@ -60,9 +60,9 @@ Usos y dosis autorizados:
   Dosis Nº Aplic.   
 USO AGENTE Min-máx. Intervalos Vol. Caldo 
 l/ha  
-ROYA 
-Cebolla STEMFILIUM 1 - 1,25 2 10 300-800 l/ha 
 MILDIU 
+Cebolla ROYA 1 - 1,25 2 10 300-800 l/ha 
+STEMFILIUM 
   
 Plazos de Seguridad (Protección del consumidor):  
   
@@ -79,9 +79,9 @@ Cebolla 21
 Fecha de Liberación (Protección de Datos): 
  
 Cultivo - Agente Fecha de Liberación 
+Cebolla - MILDIU 30/05/2026 
 Cebolla - ROYA 30/05/2026 
 Cebolla - STEMFILIUM 30/05/2026 
-Cebolla - MILDIU 30/05/2026 
  
 Condiciones generales de uso:   
 Aplicar al aire libre en pulverización con tractor con cabina cerrada desde el estadio BBCH 
@@ -121,7 +121,7 @@ ambiente, siga las instrucciones de uso.
 peligro 
 H318 - Provoca lesiones oculares graves. 
 H361d - Se sospecha que daña al feto. 
- Página 2 de 4                                92316
+ Página 2 de 4                                102016
 Nº REGISTRO: 
 FANDANGO 
  
@@ -181,7 +181,7 @@ sistemas colectivos de responsabilidad ampliada (SIG) o directamente en el punto
 donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un 
 sistema de depósito, devolución y retorno 
   
- Página 3 de 4                                92316
+ Página 3 de 4                                102016
 Nº REGISTRO: 
 FANDANGO 
  
@@ -197,4 +197,4 @@ tolueno y prothioconazol-desthio en el técnico de la sustancia activa, mediante
 analíticos. 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

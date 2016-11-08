@@ -103,15 +103,15 @@ Tomate 3
 Patata 7 
   
  
+ Página 2 de 5                                102016
+Nº REGISTRO: 
+CONSENTO 
+ 
 Fecha de Liberación (Protección de Datos): 
  
 Cultivo - Agente Fecha de Liberación 
 Patata,Tomate - ALTERNARIA 23/03/2026 
 Patata,Tomate - MILDIU 23/03/2026 
- 
- Página 2 de 5                                92316
-Nº REGISTRO: 
-CONSENTO 
  
 Condiciones generales de uso:   
 Aplicar en pulverización normal. En la etiqueta se darán instrucciones para el correcto uso del 
@@ -145,13 +145,12 @@ Evitar el contacto con el follaje húmedo durante la aplicación
   
 Clasificaciones y Etiquetado: 
  
-Clase y categoría 
- 
+Clase y categoría  
 de peligro 
 (Humana) 
-Pictograma 
- 
-Palabra -- 
+Pictograma  
+-- 
+Palabra 
 Advertencia 
 EUH 208 - Contiene <nombre de la sustancia sensibilizante>. Puede 
 Indicaciones de 
@@ -159,6 +158,10 @@ provocar una reacción alérgica.
 peligro 
 EUH 401 - A fin de evitar riesgos para las personas y el medio 
 ambiente, siga las instrucciones de uso.  
+ Página 3 de 5                                102016
+Nº REGISTRO: 
+CONSENTO 
+ 
 P261 - Evitar respirar el polvo/el humo/el gas/la niebla/los vapores/ el 
 Consejos de 
 aerosol. (El fabricante o el proveedor especificarán las condiciones 
@@ -167,10 +170,6 @@ aplicables)
 P262 - Evitar el contacto con los ojos, la piel o la ropa. 
 P280 - Llevar guantes/prendas/gafas/máscara de protección. (El 
 fabricante o el proveedor especificarán el tipo de equipo) 
- Página 3 de 5                                92316
-Nº REGISTRO: 
-CONSENTO 
- 
 Acuático agudo 1 
 Clase y categoría 
 Acuático crónico 2 
@@ -184,8 +183,7 @@ Advertencia
 H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
 Frases de Riesgo 
 duraderos.  
-P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
-Consejos 
+Consejos P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
 previsto) 
 Prudencia 
 P391 - Recoger el vertido. 
@@ -219,20 +217,20 @@ sistema de depósito, devolución y retorno
 Otras indicaciones reglamentarias:   
 "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE SIGA LAS 
 INTRUCCIONES DE USO," en caracteres que resalten el texto. 
+ Página 4 de 5                                102016
+Nº REGISTRO: 
+CONSENTO 
+ 
 En la etiqueta se hará constar que "contiene 1,2-benzisotiazol-3(2H)-ona, nº CAS:2634-33-
 5". Puede provocar una reacción alérgica 
   
 Condiciones de almacenamiento: -- 
   
 Requerimiento de datos/estudios complementarios:   
- Página 4 de 5                                92316
-Nº REGISTRO: 
-CONSENTO 
- 
 Deben presentar ensayos de Consento 450 SC con el fin de confirmar la dosis mínima eficaz 
 para la aplicación en tomate bajo condiciones de invernadero contra Alternaria solani. Deben 
 presentarse datos complementarios que cubran la no interferencia del efecto matriz en los 
 resultados de la validación ya obtenidos del Método 01163. 
   
  
- Página 5 de 5                                92316
+ Página 5 de 5                                102016

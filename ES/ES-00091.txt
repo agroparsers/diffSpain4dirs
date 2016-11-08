@@ -54,7 +54,7 @@ intermedio 640 L, 820 L, 1000 L, 1250 L, con interior de HDPE y exterior con rej
 galvanizados. 
   
  
-     Página 1 de 6       Nº REGISTRO:   ES-00091  
+     Página 1 de 7       Nº REGISTRO:   ES-00091  
 HELOSATE PLUS
 Nº REGISTRO: 
 HELOSATE PLUS 
@@ -67,45 +67,37 @@ USO AGENTE Min- Aplic. Vol. (Condic.Específico)
 máx. Caldo 
 Kg/ha  
 Aplicar en cultivos leñosos menores de 4 años. 
-MALAS 
-Aplicación con pantalla o boquillas deflectoras cuando 
-HIERBAS 4,8 - 6,4 
-las malas hierbas alcancen una altura de 10-20 cm en 
-VIVACES 
-adelante (primavera).  
+MALAS Aplicación con pantalla o boquillas deflectoras cuando 
+HIERBAS 3,2 - 4,8 las malas hierbas alcancen una altura de 10-20 cm en 
+ANUALES adelante (primavera).Dosis en malas hierbas de hoja 
+ancha anuales y bianuales: 2.4-4.8 Kg/ha.  
 Arboles y 
 100-400 
 arbustos 1 
 l/ha 
 no frutales 
 Aplicar en cultivos leñosos menores de 4 años. 
-MALAS Aplicación con pantalla o boquillas deflectoras cuando 
-HIERBAS 3,2 - 4,8 las malas hierbas alcancen una altura de 10-20 cm en 
-ANUALES adelante (primavera).Dosis en malas hierbas de hoja 
-ancha anuales y bianuales: 2.4-4.8 Kg/ha.  
 MALAS 
-Aplicar en rodales cuando la planta tenga 4 años en 
+Aplicación con pantalla o boquillas deflectoras cuando 
 HIERBAS 4,8 - 6,4 
-adelante. Aplicar antes del final de la floración.  
+las malas hierbas alcancen una altura de 10-20 cm en 
 VIVACES 
+adelante (primavera).  
+Aplicar en rodales cuando la planta tenga 4 años en 
+MALAS 
+adelante. Aplicar antes del final de la floración. Para 
+HIERBAS 3,2 - 4,8 
+las malas hierbas de hoja ancha anuales y bianuales la 
+ANUALES 
+dosis será de 2.4-4.8 Kg/ha. 
 100-400 
 Cítricos 1 
 l/ha 
-Aplicar en rodales cuando la planta tenga 4 años en 
-MALAS 
-adelante. Aplicar antes del final de la floración. Para 
-HIERBAS 3,2 - 4,8 
-las malas hierbas de hoja ancha anuales y bianuales la 
-ANUALES 
-dosis será de 2.4-4.8 Kg/ha. 
 MALAS 
 Aplicar en rodales cuando la planta tenga 4 años en 
 HIERBAS 4,8 - 6,4 
 adelante. Aplicar antes del final de la floración.  
 VIVACES 
-Frutales de 100-400 
-1 
-hueso l/ha 
 Aplicar en rodales cuando la planta tenga 4 años en 
 MALAS 
 adelante. Aplicar antes del final de la floración. Para 
@@ -113,7 +105,15 @@ HIERBAS 3,2 - 4,8
 las malas hierbas de hoja ancha anuales y bianuales la 
 ANUALES 
 dosis será de 2.4-4.8 Kg/ha. 
- Página 2 de 6                                92316
+Frutales de 100-400 
+1 
+hueso l/ha 
+MALAS 
+Aplicar en rodales cuando la planta tenga 4 años en 
+HIERBAS 4,8 - 6,4 
+adelante. Aplicar antes del final de la floración.  
+VIVACES 
+ Página 2 de 7                                102016
 Nº REGISTRO: 
 HELOSATE PLUS 
  
@@ -123,8 +123,8 @@ USO AGENTE Min- Aplic. Vol. (Condic.Específico)
 máx. Caldo 
 Kg/ha  
 MALAS 
-HIERBAS 4,8 - 6,4 
-VIVACES 
+HIERBAS 3,2 - 4,8 
+ANUALES 
 Aplicar en rodales cuando la planta tenga 4 años en 
 adelante. Aplicar cuando las malas hierbas alcance 
 Frutales de 100-400 
@@ -133,37 +133,20 @@ pepita l/ha
 las malas hierbas de hoja ancha anuales y bianuales la 
 dosis será de 2.4-4.8 Kg/ha. 
 MALAS 
-HIERBAS 3,2 - 4,8 
-ANUALES 
-MALAS Aplicar en bandas cuando la planta tenga 4 años en 
-HIERBAS 4,8 - 6,4 adelante. Aplicar cuando las malas hierbas alcancen 
-VIVACES una altura de 10-20 cm en adelante (primavera).  
-100-400 
-Olivo 1 
-l/ha 
+HIERBAS 4,8 - 6,4 
+VIVACES 
 Aplicar en bandas cuando la planta tenga 4 años en 
 MALAS adelante. Aplicar cuando las malas hierbas alcancen 
 HIERBAS 3,2 - 4,8 una altura de 10-20 cm en adelante (primavera). Para 
 ANUALES malas hierbas de hoja ancha anuales y bianuales la 
 dosis será de 2.4-4.8 Kg/ha. 
-MALAS 
-Aplicar en rodales cuando la planta tenga 4 años en 
-HIERBAS 4,8 - 6,4 
-adelante. Aplicar antes del final de la floración.  
-VIVACES 
-Otros 
-frutales de 100-400 
-1 
-hoja l/ha 
-Aplicar en rodales cuando la planta tenga 4 años en 
-MALAS 
-caduca 
-adelante. Aplicar antes del final de la floración. Para 
-HIERBAS 3,2 - 4,8 
-las malas hierbas de hoja ancha anuales y bianuales la 
-ANUALES 
-dosis será de 2.4-4.8 Kg/ha. 
- Página 3 de 6                                92316
+100-400 
+Olivo 1 
+l/ha 
+MALAS Aplicar en bandas cuando la planta tenga 4 años en 
+HIERBAS 4,8 - 6,4 adelante. Aplicar cuando las malas hierbas alcancen 
+VIVACES una altura de 10-20 cm en adelante (primavera).  
+ Página 3 de 7                                102016
 Nº REGISTRO: 
 HELOSATE PLUS 
  
@@ -172,23 +155,34 @@ HELOSATE PLUS
 USO AGENTE Min- Aplic. Vol. (Condic.Específico) 
 máx. Caldo 
 Kg/ha  
-MALAS Aplicar en post cosecha hasta siembra o plantación 
-HIERBAS 4 - 5,6 del cultivo de invierno. Si es cultivo de primavera: 4-
-VIVACES 4.8 Kg/ha. Esperar 4 días hasta labranza. 
-Terrenos 100-200 
+Aplicar en rodales cuando la planta tenga 4 años en 
+MALAS 
+adelante. Aplicar antes del final de la floración. Para 
+HIERBAS 3,2 - 4,8 
+las malas hierbas de hoja ancha anuales y bianuales la 
+ANUALES 
+Otros 
+dosis será de 2.4-4.8 Kg/ha. 
+frutales de 100-400 
 1 
-agrícolas l/ha 
+hoja l/ha 
+caduca 
+MALAS 
+Aplicar en rodales cuando la planta tenga 4 años en 
+HIERBAS 4,8 - 6,4 
+adelante. Aplicar antes del final de la floración.  
+VIVACES 
 Aplicar en post cosecha hasta siembra o plantación 
 MALAS del cultivo de invierno. Si es cultivo de primavera: 2.4 
 HIERBAS 3,2 - 4 Kg/ha. Esperar 1 hora hasta labranza. Dosis malas 
 ANUALES hierbas de hoja ancha anuales y bianuales: 4-4.8 
 Kg/ha y tiempo espera hasta labranza: 4 días 
-MALAS Aplicación en bandas desde que la planta tenga 4 
-HIERBAS 4,8 - 6,4 años en adelante. Aplicar antes del final de la 
-VIVACES floración. 
-100-400 
-Vid 1 
-l/ha 
+Terrenos 100-200 
+1 
+agrícolas l/ha 
+MALAS Aplicar en post cosecha hasta siembra o plantación 
+HIERBAS 4 - 5,6 del cultivo de invierno. Si es cultivo de primavera: 4-
+VIVACES 4.8 Kg/ha. Esperar 4 días hasta labranza. 
 Aplicar en bandas desde que la planta tenga 4 años en 
 MALAS 
 adelante. Aplicar antes del final de la floración. La 
@@ -196,9 +190,19 @@ HIERBAS 3,2 - 4,8
 dosis para malas hierbas de hoja ancha anuales y 
 ANUALES 
 bianuales será de 2.4-4.8 Kg/ha.  
+100-400 
+Vid 1 
+l/ha 
+MALAS Aplicación en bandas desde que la planta tenga 4 
+HIERBAS 4,8 - 6,4 años en adelante. Aplicar antes del final de la 
+VIVACES floración. 
   
 Plazos de Seguridad (Protección del consumidor):  
   
+ Página 4 de 7                                102016
+Nº REGISTRO: 
+HELOSATE PLUS 
+ 
 Cultivo P.S. (días) 
 Olivo 21 
 Frutales de pepita 28 
@@ -217,10 +221,6 @@ Excepciones: --
 Clase de usuario:   
 Uso reservado a agricultores y aplicadores profesionales 
   
- Página 4 de 6                                92316
-Nº REGISTRO: 
-HELOSATE PLUS 
- 
 Mitigación de riesgos en la manipulación:   
 Durante la aplicación con tractor se deberán usar los guantes de protección para manipular 
 el equipo de aplicación o superficies contaminadas. El aplicador deberá utilizar guantes de 
@@ -235,15 +235,15 @@ cerrado mediante la utilización de un sistema automático de bombeo
   
 Clasificaciones y Etiquetado: 
  
-Clase y categoría 
- 
+Clase y categoría  
 de peligro 
 (Humana) 
-Pictograma 
- 
-Palabra -- 
+Pictograma  
+-- 
+Palabra 
 Advertencia 
-Indicaciones de EUH 210 - Puede solicitarse la ficha de datos de seguridad. 
+EUH 210 - Puede solicitarse la ficha de datos de seguridad. 
+Indicaciones de 
 EUH 401 - A fin de evitar riesgos para las personas y el medio 
 peligro 
 ambiente, siga las instrucciones de uso.  
@@ -253,9 +253,14 @@ aerosol. (El fabricante o el proveedor especificarán las condiciones
 Prudencia 
 aplicables) 
 P262 - Evitar el contacto con los ojos, la piel o la ropa. 
-Clase y categoría Acuático crónico 2 
+Acuático crónico 2 
+Clase y categoría 
 de peligro 
 (Medio ambiental) 
+ Página 5 de 7                                102016
+Nº REGISTRO: 
+HELOSATE PLUS 
+ 
 Pictograma 
 GSH09 (medio ambiente)  
 -- 
@@ -264,8 +269,7 @@ Advertencia
 H411 - Tóxico para los organismos acuáticos, con efectos nocivos 
 Frases de Riesgo 
 duraderos.  
-P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
-Consejos 
+Consejos P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
 previsto) 
 Prudencia 
 P391 - Recoger el vertido. 
@@ -279,10 +283,6 @@ SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda 
 de 5 m hasta las masas de agua superficial. 
 SPe 3: Para proteger los artrópodos no objeto del tratamiento, respétese sin tratar una banda 
 de seguridad de 5 m hasta la zona no cultivada. 
- Página 5 de 6                                92316
-Nº REGISTRO: 
-HELOSATE PLUS 
- 
 SPe 3: Para proteger las plantas no objetivo, respétese sin tratar una banda de seguridad de: 
 - 5 m hasta la zona no cultivada para usos con dosis máximas de 2.4 Kg/ha y 3.2 Kg/ha. - 20 
 m hasta la zona no vultivada para usos con dosis máximas entre 6.4 Kg/ha y 4,8 Kg/ha 
@@ -313,6 +313,10 @@ Requerimiento de datos/estudios complementarios:
 Requerimiento de datos/estudios complementarios: Se requiere al notificador la siguiente 
 información durante el re-examen del preparado tras la re-aprobación de la sustancia activa 
 Glifosato: - Un método de confirmación completamente validado para la determinación de 
+ Página 6 de 7                                102016
+Nº REGISTRO: 
+HELOSATE PLUS 
+ 
 residuos de glifosato en plantas (matrices de alto contenido en agua, alto contenido graso, 
 alto contenido ácido y cereales y productos de alto contenido seco. - Un método analítico 
 completamente validado, con método confirmatorio y validación inter laboratorios (ILV) para 
@@ -327,4 +331,4 @@ estudio de estabilidad al almacenamiento del glifosato en las matrices ácidas y
 período de almacenamiento de los ensayos en cítricos. 
   
  
- Página 6 de 6                                92316
+ Página 7 de 7                                102016

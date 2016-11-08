@@ -60,13 +60,9 @@ Usos y dosis autorizados:
 USO AGENTE Min- Aplic. Intervalos Vol. APLICACIÓN 
 máx. Caldo (Condic.Específico) 
 %  
-MOSCA 500-2200 
-BLANCA l/Ha 
-Aplicar desde el reposo hasta que el 
+MOSCA 500-2200 Aplicar desde el reposo hasta que el 
 Cítricos 1 - 1,5 2 60 días 
-fruto empiece a colorear. 
-PIOJO ROJO 
-CALIFORNIA 
+BLANCA l/Ha fruto empiece a colorear. 
  
      Página 1 de 4       Nº REGISTRO:   ES-00053  
 PROMANAL AGRO
@@ -78,20 +74,22 @@ PROMANAL AGRO
 USO AGENTE Min- Aplic. Intervalos Vol. APLICACIÓN 
 máx. Caldo (Condic.Específico) 
 %  
+PIOJO ROJO 
+CALIFORNIA 
 1000-
-PARLATORIA 
 1200 
 l/Ha 
+PARLATORIA 
+PIOJO DE SAN 800-1000 Aplicar desde el el letargo hasta que 
+JOSE l/Ha los frutos comienzan a madurar. 
+Frutales 
+0,75 - 1 1 - 
+de hueso 
 Aplicar en el estadio de yemas de la 
 1.250 
 ARAÑA ROJA inflorescencia hinchada hasta la 
 l/Ha 
 apertura de yemas (efecto ovicida).  
-Frutales 
-0,75 - 1 1 - 
-de hueso 
-PIOJO DE SAN 800-1000 Aplicar desde el el letargo hasta que 
-JOSE l/Ha los frutos comienzan a madurar. 
 1.250- Aplicar en el estadio de primeras 
 ARAÑA ROJA 1.500 yemas florales visibles (efecto 
 l/Ha ovicida).  
@@ -123,6 +121,10 @@ Clase de usuario:
 Uso reservado a agricultores y aplicadores profesionales 
   
 Mitigación de riesgos en la manipulación:   
+ Página 2 de 4                                102016
+Nº REGISTRO: 
+PROMANAL AGRO 
+ 
 El aplicador deberá utilizar guantes y ropa de protección durante la mezcla/carga, aplicación 
 y limpieza del equipo. Se recomienda el uso de mascarilla autofiltrante para partículas tipo 
 FFP2 según norma UNE-EN-149:2001+A1:2010 o bien, mascarilla con filtro tipo P2 según 
@@ -130,18 +132,16 @@ normas UNE-EN 143:2001, UNE-EN 143/AC:2002, UNE-EN 143:2001/AC:2005, UNE-EN
 143:2001/A1:2006 durante las tareas de aplicación 
 SPo 2: Lávese toda la ropa de protección después de usarla 
   
- Página 2 de 4                                92316
-Nº REGISTRO: 
-PROMANAL AGRO 
- 
 Clasificaciones y Etiquetado: 
  
-Clase y categoría Peligro por aspiración. Categoría 1. 
+Peligro por aspiración. Categoría 1. 
+Clase y categoría 
 de peligro 
 (Humana) 
 Pictograma 
 GSH08 (peligro para la salud)  
-Palabra Atención 
+Atención 
+Palabra 
 Advertencia 
 EUH 401 - A fin de evitar riesgos para las personas y el medio 
 Indicaciones de 
@@ -149,28 +149,26 @@ ambiente, siga las instrucciones de uso.
 peligro 
 H304 - Puede ser mortal en caso de ingestión y penetración en las vías 
 respiratorias.  
-P261 - Evitar respirar el polvo/el humo/el gas/la niebla/los vapores/ el 
-Consejos de 
+Consejos de P261 - Evitar respirar el polvo/el humo/el gas/la niebla/los vapores/ el 
 aerosol. (El fabricante o el proveedor especificarán las condiciones 
 Prudencia 
 aplicables) 
 P262 - Evitar el contacto con los ojos, la piel o la ropa. 
 P301+P330+P331 - EN CASO DE INGESTIÓN: Enjuagarse la boca. NO 
 provocar el vómito. 
-Acuático agudo 1 
-Clase y categoría 
+Clase y categoría Acuático agudo 1 
 Acuático crónico 1 
 de peligro 
 (Medio ambiental) 
 Pictograma 
 GSH09 (medio ambiente)  
-Atención 
-Palabra 
+Palabra Atención 
 Advertencia 
 H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
 Frases de Riesgo 
 duraderos.  
-Consejos P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
+P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
+Consejos 
 previsto) 
 Prudencia 
 P391 - Recoger el vertido. 
@@ -184,6 +182,10 @@ SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda 
 de 20 m. en cítricos y 30 m. en frutales hasta las masas de agua superficial 
   
  Eliminación Producto y/o caldo: -- 
+ Página 3 de 4                                102016
+Nº REGISTRO: 
+PROMANAL AGRO 
+ 
  
 Gestión de envases:   
 Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al 
@@ -191,10 +193,6 @@ depósito (del pulverizador).
 Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases 
 de productos fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los 
 envases vacíos o resíduos de envases bien en los puntos de recogida establecidos por los 
- Página 3 de 4                                92316
-Nº REGISTRO: 
-PROMANAL AGRO 
- 
 sistemas colectivos de responsabilidad ampliada (SIG) o directamente en el punto de venta 
 donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un 
 sistema de depósito, devolución y retorno 
@@ -209,4 +207,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

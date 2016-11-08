@@ -62,10 +62,8 @@ USO AGENTE Min- (Condic.Específico)
 máx. 
 l/ha  
 Aplicar cuando la mala hierba se encuentre en estado de 4 hojas hasta pleno 
-ECHINOCLOA 
+Arroz ECHINOCLOA 1,5 
 ahijamiento del arroz. 
-Arroz 1,5 
-LEPTOCLOA Aplicar cuando la mala hierba se encuentre en estado de 2 a 4 hojas. 
  
      Página 1 de 4       Nº REGISTRO:   ES-00003  
 CLINCHER PLUS
@@ -77,6 +75,7 @@ CLINCHER PLUS
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 l/ha  
+LEPTOCLOA Aplicar cuando la mala hierba se encuentre en estado de 2 a 4 hojas. 
 PASPALUM Aplicar hasta pleno ahijamiento del arroz. 
   
 Plazos de Seguridad (Protección del consumidor):  
@@ -117,12 +116,12 @@ esperar al menos 30 días después de la aplicación, accediendo a la parcela co
 extralargas de clase 2 (de caucho o poliméricas) y guantes de protección química. 
 No entrar al cultivo hasta que el producto esté seco. 
 SPo 2: Lávese toda la ropa de protección después de usarla 
-  
-Clasificaciones y Etiquetado: 
- 
- Página 2 de 4                                92316
+ Página 2 de 4                                102016
 Nº REGISTRO: 
 CLINCHER PLUS 
+ 
+  
+Clasificaciones y Etiquetado: 
  
 Irritación cutánea. Categoría 2. 
 Clase y categoría 
@@ -149,10 +148,10 @@ GSH09 (medio ambiente)
 -- 
 Palabra 
 Advertencia 
-H411 - Tóxico para los organismos acuáticos, con efectos nocivos 
-Frases de Riesgo 
+Frases de Riesgo H411 - Tóxico para los organismos acuáticos, con efectos nocivos 
 duraderos.  
-Consejos P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
+P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
+Consejos 
 previsto) 
 Prudencia 
 P391 - Recoger el vertido. 
@@ -176,14 +175,14 @@ Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobr
 de productos fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los 
 envases vacíos o resíduos de envases bien en los puntos de recogida establecidos por los 
 sistemas colectivos de responsabilidad ampliada (SIG) o directamente en el punto de venta 
+ Página 3 de 4                                102016
+Nº REGISTRO: 
+CLINCHER PLUS 
+ 
 donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un 
 sistema de depósito, devolución y retorno 
   
 Otras indicaciones reglamentarias:   
- Página 3 de 4                                92316
-Nº REGISTRO: 
-CLINCHER PLUS 
- 
 "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE SIGA LAS 
 INTRUCCIONES DE USO," en caracteres que resalten el texto. 
 SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE. (No limpiar 
@@ -195,4 +194,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

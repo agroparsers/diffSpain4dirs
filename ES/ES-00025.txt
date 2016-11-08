@@ -63,21 +63,23 @@ Usos y dosis autorizados:
 USO AGENTE Min- Aplic. Vol. (Condic.Específico) 
 máx. Caldo 
 l/ha  
-Aplicar cuando la mala hierba se encuentre entre el 
-ECHINOCLOA 
-estado de 2 hojas y el inicio del ahijamiento. 
-200-300 
-Arroz 3 1 
-l/Ha. 
-Aplicar cuando la mala hierba se encuentre entre 2 y 4 
-LEPTOCLOA 
-hojas. 
+200-300 Aplicar cuando la mala hierba se encuentre entre el 
+Arroz ECHINOCLOA 3 1 
+l/Ha. estado de 2 hojas y el inicio del ahijamiento. 
  
-     Página 1 de 3       Nº REGISTRO:   ES-00025  
+     Página 1 de 4       Nº REGISTRO:   ES-00025  
 VIPER MAX
 Nº REGISTRO: 
 VIPER MAX 
  
+      
+  Dosis Nº  FORMA Y ÉPOCA DE APLICACIÓN 
+USO AGENTE Min- Aplic. Vol. (Condic.Específico) 
+máx. Caldo 
+l/ha  
+Aplicar cuando la mala hierba se encuentre entre 2 y 4 
+LEPTOCLOA 
+hojas. 
   
 Plazos de Seguridad (Protección del consumidor):  
   
@@ -122,7 +124,12 @@ ambiente, siga las instrucciones de uso.
 peligro 
 H315 - Provoca irritación cutánea. 
 H317 - Puede provocar una reacción alérgica en la piel.  
-Consejos de P261 - Evitar respirar el polvo/el humo/el gas/la niebla/los vapores/ el 
+ Página 2 de 4                                102016
+Nº REGISTRO: 
+VIPER MAX 
+ 
+P261 - Evitar respirar el polvo/el humo/el gas/la niebla/los vapores/ el 
+Consejos de 
 aerosol. (El fabricante o el proveedor especificarán las condiciones 
 Prudencia 
 aplicables) 
@@ -132,10 +139,6 @@ P280 - Llevar guantes/prendas/gafas/máscara de protección. (El
 fabricante o el proveedor especificarán el tipo de equipo) 
 P302+P352 - EN CASO DE CONTACTO CON LA PIEL: Lavar con agua y 
 jabón abundantes. 
- Página 2 de 3                                92316
-Nº REGISTRO: 
-VIPER MAX 
- 
 Acuático agudo 1 
 Clase y categoría 
 Acuático crónico 1 
@@ -146,8 +149,7 @@ GSH09 (medio ambiente)
 Atención 
 Palabra 
 Advertencia 
-H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
-Frases de Riesgo 
+Frases de Riesgo H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
 duraderos.  
 P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
 Consejos 
@@ -182,8 +184,12 @@ En la etiqueta se hará constar que "contiene 1,2-benzisotiazol-3-(2H)-ona, nº 
 SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE 
   
 Condiciones de almacenamiento: -- 
+ Página 3 de 4                                102016
+Nº REGISTRO: 
+VIPER MAX 
+ 
   
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 3 de 3                                92316
+ Página 4 de 4                                102016

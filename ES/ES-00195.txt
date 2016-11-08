@@ -61,9 +61,9 @@ Usos y dosis autorizados:
   Dosis Nº Aplic.   
 USO AGENTE Min-máx. Intervalos Vol. Caldo 
 l/ha  
+ACAROS 
+Hortícolas MOSCA BLANCA 5 - 75 20 3 200-3000 l/ha 
 PULGONES 
-Hortícolas ACAROS 5 - 75 20 3 200-3000 l/ha 
-MOSCA BLANCA 
   
 Plazos de Seguridad (Protección del consumidor):  
   
@@ -80,9 +80,9 @@ Hortícolas NP
 Fecha de Liberación (Protección de Datos): 
  
 Cultivo - Agente Fecha de Liberación 
-Hortícolas - PULGONES 17/06/2026 
 Hortícolas - ACAROS 17/06/2026 
 Hortícolas - MOSCA BLANCA 17/06/2026 
+Hortícolas - PULGONES 17/06/2026 
  
 Condiciones generales de uso:   
 Aplicar en invernadero mediante pulverización foliar en cualquier estadío de crecimiento del 
@@ -114,7 +114,7 @@ Indicaciones de
 ambiente, siga las instrucciones de uso. 
 peligro 
 H319 - Provoca irritación ocular grave.  
- Página 2 de 4                                92316
+ Página 2 de 4                                102016
 Nº REGISTRO: 
 ERADICOAT 
  
@@ -171,7 +171,7 @@ INTRUCCIONES DE USO," en caracteres que resalten el texto.
 SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE. (No limpiar 
 el equipo de aplicación del producto cerca de aguas superficiales/Evitese la contaminación a 
 través de los sistemas de evacuación de aguas de las explotaciones o de los caminos) 
- Página 3 de 4                                92316
+ Página 3 de 4                                102016
 Nº REGISTRO: 
 ERADICOAT 
  
@@ -195,4 +195,4 @@ producto en el manejo integrado de plagas es necesario que el notificador envíe
 información para cubrir el efecto en los artrópodos beneficiosos a la GAP solicitada. 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

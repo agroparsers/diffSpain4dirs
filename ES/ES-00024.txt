@@ -60,17 +60,13 @@ Usos y dosis autorizados:
   Dosis Nº   FORMA Y ÉPOCA DE 
 USO AGENTE Min- Aplic. Intervalos Vol. APLICACIÓN 
 máx. Caldo (Condic.Específico) 
-0,075 - 
-PULGONES 
-0,1 % 
 500- Aplicar sólo después de la caída de 
-Albaricoquero 2 14 1.500 los pétalos hasta el inicio de la 
+0,075 - 
+Albaricoquero PULGONES 2 14 1.500 los pétalos hasta el inicio de la 
+0,1 % 
 l/Ha. maduración. 
-0,12 - 
-COCHINILLAS 
-0,15 % 
  
-     Página 1 de 6       Nº REGISTRO:   ES-00024  
+     Página 1 de 7       Nº REGISTRO:   ES-00024  
 MOVENTO GOLD
 Nº REGISTRO: 
 MOVENTO GOLD 
@@ -79,24 +75,27 @@ MOVENTO GOLD
   Dosis Nº   FORMA Y ÉPOCA DE 
 USO AGENTE Min- Aplic. Intervalos Vol. APLICACIÓN 
 máx. Caldo (Condic.Específico) 
+COCHINILLAS 
+0,12 - 
+0,15 % 
 TRIPS 
-0,075 - 
-PULGONES 
+0,12 - 
+COCHINILLAS 
 0,15 % 
 500- Aplicar sólo después de la caída de 
 Cerezo 2 14 1.500 los pétalos hasta el inicio de la 
 l/Ha. maduración. 
-0,12 - 
-COCHINILLAS 
-0,15 % 
 0,075 - 
 PULGONES 
+0,15 % 
+0,12 - 
+COCHINILLAS 
 0,15 % 
 500- Aplicar sólo después de la caída de 
 Ciruelo 2 14 1.500 los pétalos hasta el inicio de la 
 l/Ha. maduración. 
-0,12 - 
-COCHINILLAS 
+0,075 - 
+PULGONES 
 0,15 % 
 0,045 - 
 PULGONES 
@@ -116,6 +115,14 @@ COCHINILLAS
 0,075 % 
 MOSCA 
 BLANCA 
+ Página 2 de 7                                102016
+Nº REGISTRO: 
+MOVENTO GOLD 
+ 
+       
+  Dosis Nº   FORMA Y ÉPOCA DE 
+USO AGENTE Min- Aplic. Intervalos Vol. APLICACIÓN 
+máx. Caldo (Condic.Específico) 
 Aplicar des el estadío de 5 hojas 
 Hortalizas del 0,45 - 300-
 MOSCA desplegadas hasta que el cogollo ha 
@@ -129,32 +136,24 @@ PULGONES 2 14
 similares 0,6 l/ha l/Ha. haya alcanzado el tamaño típico de 
 la especie. 
 500-
-0,12 - 
-COCHINILLAS 1.500 
-0,15 % 
-Aplicar sólo después de la caída de 
-l/ha. 
-Manzano 2 14 los pétalos hasta el inicio de la 
-500-
-maduración. 
 0,075 - 
 PULGONES 1.500 
 0,15 % 
 l/Ha. 
-500- Aplicar sólo después de la caída de 
+Aplicar sólo después de la caída de 
+Manzano 2 14 los pétalos hasta el inicio de la 
+maduración. 
+500-
+0,12 - 
+COCHINILLAS 1.500 
+0,15 % 
+l/ha. 
 0,075 - 
-Melocotonero PULGONES 2 14 1.500 los pétalos hasta el inicio de la 
+PULGONES 
 0,1 % 
+500- Aplicar sólo después de la caída de 
+Melocotonero COCHINILLAS 2 14 1.500 los pétalos hasta el inicio de la 
 l/Ha. maduración. 
- Página 2 de 6                                92316
-Nº REGISTRO: 
-MOVENTO GOLD 
- 
-       
-  Dosis Nº   FORMA Y ÉPOCA DE 
-USO AGENTE Min- Aplic. Intervalos Vol. APLICACIÓN 
-máx. Caldo (Condic.Específico) 
-COCHINILLAS 
 0,12 - 
 0,15 % 
 TRIPS 
@@ -167,15 +166,20 @@ l/Ha. maduración.
 0,12 - 
 0,15 % 
 TRIPS 
+500- Aplicar sólo después de la caída de 
 0,075 - 
-PULGONES 
+Peral PULGONES 2 14 1.500 los pétalos hasta el inicio de la 
 0,15 % 
-500-
-1.500 
-Aplicar sólo después de la caída de 
-l/Ha. 
-Peral COCHINILLAS 2 14 los pétalos hasta el inicio de la 
-maduración. 
+l/Ha. maduración. 
+ Página 3 de 7                                102016
+Nº REGISTRO: 
+MOVENTO GOLD 
+ 
+       
+  Dosis Nº   FORMA Y ÉPOCA DE 
+USO AGENTE Min- Aplic. Intervalos Vol. APLICACIÓN 
+máx. Caldo (Condic.Específico) 
+COCHINILLAS 
 0,12 - 
 0,15 % 
 500-
@@ -197,14 +201,6 @@ todo el racimo. (desflorillado
 manualy/o caída natural). 
 MOSCA 
 BLANCA 
- Página 3 de 6                                92316
-Nº REGISTRO: 
-MOVENTO GOLD 
- 
-       
-  Dosis Nº   FORMA Y ÉPOCA DE 
-USO AGENTE Min- Aplic. Intervalos Vol. APLICACIÓN 
-máx. Caldo (Condic.Específico) 
 COCHINILLAS 
 400- Aplicar desde el cuajado de los 
 0,075 - 
@@ -212,6 +208,10 @@ Vid 2 14 1.000 frutos hasta que todas las bayas de
 0,095 % 
 l/Ha. un racimo se tocan. 
 MELAZO 
+ Página 4 de 7                                102016
+Nº REGISTRO: 
+MOVENTO GOLD 
+ 
   
 Plazos de Seguridad (Protección del consumidor):  
   
@@ -251,16 +251,16 @@ Clase y categoría Sensibilizantes cutáneos. Categoría 1.
 Tóxicos para la reproducción. Categoría 2. 
 de peligro 
 (Humana) 
- Página 4 de 6                                92316
-Nº REGISTRO: 
-MOVENTO GOLD 
- 
 Pictograma 
 GSH07 (signo de exclamación)  
 GSH08 (peligro para la salud)  
 Atención 
 Palabra 
 Advertencia 
+ Página 5 de 7                                102016
+Nº REGISTRO: 
+MOVENTO GOLD 
+ 
 EUH 401 - A fin de evitar riesgos para las personas y el medio 
 Indicaciones de 
 ambiente, siga las instrucciones de uso. 
@@ -313,16 +313,16 @@ SPe 3: Para proteger las plantas no objetivo, respétese sin tratar una banda de
 1 en lechuga y hortalizas del género Brassica, 3 m. en vid y 10 m. en platanera hasta la zona 
 no cultivada. 
 SPe 3: Para proteger los artrópodos no objeto del tratamiento, respétese sin tratar una banda 
- Página 5 de 6                                92316
-Nº REGISTRO: 
-MOVENTO GOLD 
- 
 de seguridad de 5 m. en  cítricos y frutales y 10 m. en platanera hasta la zona no cultivada. 
 SPe 8: Para proteger las abejas y otros insectos polinizadores, no aplicar durante la floración 
 de los cultivos o  de la vegetación espontánea y no utilizar donde haya abejas en pecoreo 
 activo 
   
  Eliminación Producto y/o caldo: -- 
+ Página 6 de 7                                102016
+Nº REGISTRO: 
+MOVENTO GOLD 
+ 
  
 Gestión de envases:   
 Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al 
@@ -344,4 +344,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 6 de 6                                92316
+ Página 7 de 7                                102016

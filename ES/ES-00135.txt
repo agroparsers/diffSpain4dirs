@@ -64,15 +64,19 @@ USO AGENTE Min-máx. Vol. Caldo
 Kg/ha  
 Avena MALAS HIERBAS ANUALES 0,02 1 100-500 l/ha 
 Cebada MALAS HIERBAS ANUALES 0,02 1 100-500 l/ha 
-Centeno MALAS HIERBAS ANUALES 0,02 1 100-500 l/ha 
-Trigo MALAS HIERBAS ANUALES 0,02 1 100-500 l/ha 
-Triticale MALAS HIERBAS ANUALES 0,02 1 100-500 l/ha 
  
      Página 1 de 4       Nº REGISTRO:   ES-00135  
 TRAILER
 Nº REGISTRO: 
 TRAILER 
  
+     
+  Dosis Nº Aplic.  
+USO AGENTE Min-máx. Vol. Caldo 
+Kg/ha  
+Centeno MALAS HIERBAS ANUALES 0,02 1 100-500 l/ha 
+Trigo MALAS HIERBAS ANUALES 0,02 1 100-500 l/ha 
+Triticale MALAS HIERBAS ANUALES 0,02 1 100-500 l/ha 
   
 Plazos de Seguridad (Protección del consumidor):  
   
@@ -113,18 +117,17 @@ No entrar al cultivo hasta que el producto esté seco
   
 Clasificaciones y Etiquetado: 
  
-Clase y categoría 
- 
-de peligro 
-(Humana) 
-Pictograma 
- 
-Palabra -- 
-Advertencia 
- Página 2 de 4                                92316
+ Página 2 de 4                                102016
 Nº REGISTRO: 
 TRAILER 
  
+Clase y categoría  
+de peligro 
+(Humana) 
+Pictograma  
+-- 
+Palabra 
+Advertencia 
 EUH 208 - Contiene <nombre de la sustancia sensibilizante>. Puede 
 Indicaciones de 
 provocar una reacción alérgica. 
@@ -137,7 +140,8 @@ aerosol. (El fabricante o el proveedor especificarán las condiciones
 Prudencia 
 aplicables) 
 P262 - Evitar el contacto con los ojos, la piel o la ropa. 
-Clase y categoría Acuático agudo 1 
+Acuático agudo 1 
+Clase y categoría 
 Acuático crónico 1 
 de peligro 
 (Medio ambiental) 
@@ -176,16 +180,16 @@ Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobr
 de productos fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los 
 envases vacíos o resíduos de envases bien en los puntos de recogida establecidos por los 
 sistemas colectivos de responsabilidad ampliada (SIG) o directamente en el punto de venta 
+ Página 3 de 4                                102016
+Nº REGISTRO: 
+TRAILER 
+ 
 donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un 
 sistema de depósito, devolución y retorno 
   
 Otras indicaciones reglamentarias:   
 "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE SIGA LAS 
 INTRUCCIONES DE USO," en caracteres que resalten el texto. 
- Página 3 de 4                                92316
-Nº REGISTRO: 
-TRAILER 
- 
 SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE. (No limpiar 
 el equipo de aplicación del producto cerca de aguas superficiales/Evitese la contaminación a 
 través de los sistemas de evacuación de aguas de las explotaciones o de los caminos). 
@@ -197,4 +201,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

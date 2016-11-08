@@ -21,7 +21,7 @@ PRODUCCIÓN AGRARIA
 Nombre comercial: POINTER GEO 
 Número de autorización: ES-00067 
 Fecha de inscripción: 16/10/2014 
-Fecha de caducidad: 01/01/2017 
+Fecha de caducidad: 30/06/2017 
  
 Titular  
 Fabricante 
@@ -60,13 +60,12 @@ máx.
 Kg/ha  
 GUSANOS 
 BLANCOS 
-GUSANOS 
 Algodonero 10 - 15 1 Aplicar localizado en la siembra junto a la semilla. 
+GUSANOS 
 GRISES 
-LARVAS DE 
-DIABROTICA 
  
-     Página 1 de 8       Nº REGISTRO:   ES-00067  
+     Página 1 de 10       Nº REGISTRO:   ES-
+00067  
 POINTER GEO
 Nº REGISTRO: 
 POINTER GEO 
@@ -76,6 +75,8 @@ POINTER GEO
 USO AGENTE Min- Aplic. (Condic.Específico) 
 máx. 
 Kg/ha  
+LARVAS DE 
+DIABROTICA 
 GUSANOS DE 
 ALAMBRE 
 GUSANOS 
@@ -89,13 +90,13 @@ GUSANOS DE
 ALAMBRE 
 GUSANOS 
 BLANCOS 
-GUSANOS 
-GRISES 
-Colza 10 - 15 1 Aplicar directamente al suelo durante la siembra. 
-LARVAS DE 
-DIABROTICA 
 GUSANOS DE 
 ALAMBRE 
+Colza 10 - 15 1 Aplicar directamente al suelo durante la siembra. 
+GUSANOS 
+GRISES 
+LARVAS DE 
+DIABROTICA 
 GUSANOS 
 BLANCOS 
 GUSANOS 
@@ -109,29 +110,12 @@ GUSANOS DE
 ALAMBRE 
 GUSANOS 
 BLANCOS 
-GUSANOS 
-GRISES 
 Cucurbitáceas de 
 10 - 15 1 Aplicar directamente al suelo durante la plantación. 
 piel no comestible 
-LARVAS DE 
-DIABROTICA 
-GUSANOS DE 
-ALAMBRE 
-GUSANOS 
-BLANCOS 
 GUSANOS 
 GRISES 
-Aplicar localizado en la línea de trasplante o 
-Espinacas y similares 10 - 15 1 
-directamente al suelo durante la plantación. 
-LARVAS DE 
-DIABROTICA 
-GUSANOS DE 
-ALAMBRE 
-Florales GUSANOS 10 - 15 1 Aplicar directamente al suelo. 
-BLANCOS 
- Página 2 de 8                                92316
+ Página 2 de 10                                102016
 Nº REGISTRO: 
 POINTER GEO 
  
@@ -140,12 +124,30 @@ POINTER GEO
 USO AGENTE Min- Aplic. (Condic.Específico) 
 máx. 
 Kg/ha  
+GUSANOS DE 
+ALAMBRE 
+LARVAS DE 
+DIABROTICA 
+GUSANOS 
+BLANCOS 
+GUSANOS DE 
+ALAMBRE 
+Aplicar localizado en la línea de trasplante o 
+Espinacas y similares 10 - 15 1 
+directamente al suelo durante la plantación. 
 GUSANOS 
 GRISES 
 LARVAS DE 
 DIABROTICA 
+GUSANOS 
+BLANCOS 
 GUSANOS DE 
 ALAMBRE 
+Florales 10 - 15 1 Aplicar directamente al suelo. 
+GUSANOS 
+GRISES 
+LARVAS DE 
+DIABROTICA 
 GUSANOS 
 BLANCOS 
 GUSANOS 
@@ -155,38 +157,7 @@ LARVAS DE
 DIABROTICA 
 GUSANOS DE 
 ALAMBRE 
-GUSANOS 
-BLANCOS 
-GUSANOS 
-GRISES 
-Hortalizas del Aplicar localizado en la línea de trasplante o 
-10 - 15 1 
-género Brassica directamente al suelo durante la plantación. 
-LARVAS DE 
-DIABROTICA 
-GUSANOS DE 
-ALAMBRE 
-GUSANOS 
-BLANCOS 
-GUSANOS 
-GRISES 
-Aplicar localizado en la línea de trasplante o 
-Lechugas y similares 10 - 15 1 
-directamente al suelo durante la plantación. 
-LARVAS DE 
-DIABROTICA 
-GUSANOS DE 
-ALAMBRE 
-GUSANOS 
-BLANCOS 
-Aplicar localizado en la línea de siembra junto a la 
-GUSANOS 
-Maíz 10 - 15 1 semilla o distribuido y enterrado en la fila durante el 
-GRISES 
-aporcado. 
-LARVAS DE 
-DIABROTICA 
- Página 3 de 8                                92316
+ Página 3 de 10                                102016
 Nº REGISTRO: 
 POINTER GEO 
  
@@ -195,8 +166,48 @@ POINTER GEO
 USO AGENTE Min- Aplic. (Condic.Específico) 
 máx. 
 Kg/ha  
+GUSANOS 
+BLANCOS 
 GUSANOS DE 
 ALAMBRE 
+Hortalizas del Aplicar localizado en la línea de trasplante o 
+10 - 15 1 
+género Brassica directamente al suelo durante la plantación. 
+GUSANOS 
+GRISES 
+LARVAS DE 
+DIABROTICA 
+GUSANOS 
+BLANCOS 
+GUSANOS 
+GRISES 
+Aplicar localizado en la línea de trasplante o 
+Lechugas y similares 10 - 15 1 
+directamente al suelo durante la plantación. 
+GUSANOS DE 
+ALAMBRE 
+LARVAS DE 
+DIABROTICA 
+Aplicar localizado en la línea de siembra junto a la 
+GUSANOS 
+Maíz 10 - 15 1 semilla o distribuido y enterrado en la fila durante el 
+BLANCOS 
+aporcado. 
+ Página 4 de 10                                102016
+Nº REGISTRO: 
+POINTER GEO 
+ 
+     
+  Dosis Nº FORMA Y ÉPOCA DE APLICACIÓN 
+USO AGENTE Min- Aplic. (Condic.Específico) 
+máx. 
+Kg/ha  
+GUSANOS 
+GRISES 
+GUSANOS DE 
+ALAMBRE 
+LARVAS DE 
+DIABROTICA 
 GUSANOS 
 BLANCOS 
 GUSANOS 
@@ -204,19 +215,28 @@ GRISES
 Aplicar localizado en la línea de siembra junto a la 
 Mijo 10 - 15 1 semilla o distribuido y enterrado en la fila durante el 
 aporcado. 
-LARVAS DE 
-DIABROTICA 
 GUSANOS DE 
 ALAMBRE 
+LARVAS DE 
+DIABROTICA 
 GUSANOS 
 BLANCOS 
-GUSANOS 
 Ornamentales 10 - 15 1 Aplicar directamente al suelo. 
+GUSANOS DE 
+ALAMBRE 
+ Página 5 de 10                                102016
+Nº REGISTRO: 
+POINTER GEO 
+ 
+     
+  Dosis Nº FORMA Y ÉPOCA DE APLICACIÓN 
+USO AGENTE Min- Aplic. (Condic.Específico) 
+máx. 
+Kg/ha  
+GUSANOS 
 GRISES 
 LARVAS DE 
 DIABROTICA 
-GUSANOS DE 
-ALAMBRE 
 GUSANOS 
 BLANCOS 
 GUSANOS 
@@ -231,11 +251,22 @@ ALAMBRE
 GUSANOS 
 BLANCOS 
 GUSANOS 
+GRISES 
 Pimiento 10 - 15 1 Aplicar directamente al suelo durante la plantación. 
+LARVAS DE 
+DIABROTICA 
+GUSANOS DE 
+ALAMBRE 
+GUSANOS 
+BLANCOS 
+GUSANOS DE 
+ALAMBRE 
+Soja 10 - 15 1 Aplicar directamente al suelo durante la siembra. 
+GUSANOS 
 GRISES 
 LARVAS DE 
 DIABROTICA 
- Página 4 de 8                                92316
+ Página 6 de 10                                102016
 Nº REGISTRO: 
 POINTER GEO 
  
@@ -244,17 +275,6 @@ POINTER GEO
 USO AGENTE Min- Aplic. (Condic.Específico) 
 máx. 
 Kg/ha  
-GUSANOS DE 
-ALAMBRE 
-GUSANOS 
-BLANCOS 
-GUSANOS 
-GRISES 
-Soja 10 - 15 1 Aplicar directamente al suelo durante la siembra. 
-LARVAS DE 
-DIABROTICA 
-GUSANOS DE 
-ALAMBRE 
 GUSANOS 
 BLANCOS 
 GUSANOS 
@@ -262,10 +282,10 @@ GRISES
 Aplicar localizado en la línea de siembra junto a la 
 Sorgo 10 - 15 1 semilla o distribuido y enterrado en la fila durante el 
 aporcado. 
-LARVAS DE 
-DIABROTICA 
 GUSANOS DE 
 ALAMBRE 
+LARVAS DE 
+DIABROTICA 
 GUSANOS 
 BLANCOS 
 GUSANOS 
@@ -286,16 +306,7 @@ LARVAS DE
 DIABROTICA 
 GUSANOS DE 
 ALAMBRE 
-GUSANOS 
-BLANCOS 
-GUSANOS 
-Viveros de frutales 10 - 15 1 Aplicar directamente al suelo. 
-GRISES 
-LARVAS DE 
-DIABROTICA 
-GUSANOS DE 
-ALAMBRE 
- Página 5 de 8                                92316
+ Página 7 de 10                                102016
 Nº REGISTRO: 
 POINTER GEO 
  
@@ -304,6 +315,15 @@ POINTER GEO
 USO AGENTE Min- Aplic. (Condic.Específico) 
 máx. 
 Kg/ha  
+GUSANOS 
+BLANCOS 
+GUSANOS DE 
+ALAMBRE 
+Viveros de frutales 10 - 15 1 Aplicar directamente al suelo. 
+GUSANOS 
+GRISES 
+LARVAS DE 
+DIABROTICA 
 GUSANOS 
 BLANCOS 
 LARVAS DE 
@@ -338,6 +358,10 @@ Excepciones: --
 Clase de usuario:   
 Uso reservado a agricultores y aplicadores profesionales 
   
+ Página 8 de 10                                102016
+Nº REGISTRO: 
+POINTER GEO 
+ 
 Mitigación de riesgos en la manipulación:   
 El aplicador deberá utilizar guantes y ropa de protección adecuada durante la mezcla/carga 
 y aplicación. 
@@ -349,10 +373,6 @@ Clase y categoría
 de peligro 
 (Humana) 
 Pictograma  
- Página 6 de 8                                92316
-Nº REGISTRO: 
-POINTER GEO 
- 
 -- 
 Palabra 
 Advertencia 
@@ -373,8 +393,7 @@ de peligro
 (Medio ambiental) 
 Pictograma 
 GSH09 (medio ambiente)  
-Atención 
-Palabra 
+Palabra Atención 
 Advertencia 
 Frases de Riesgo H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
 duraderos.  
@@ -400,6 +419,10 @@ Gestión de envases:
 Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases 
 de productos fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los 
 envases vacíos o residuos de envases bien en los puntos de recogida establecidos por los 
+ Página 9 de 10                                102016
+Nº REGISTRO: 
+POINTER GEO 
+ 
 sistemas colectivos de responsabilidad ampliada (SIG) o directamente en el punto de venta 
 donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un 
 sistema de depósito, devolución y retorno 
@@ -412,9 +435,5 @@ Condiciones de almacenamiento: --
   
 Requerimiento de datos/estudios complementarios: -- 
   
- Página 7 de 8                                92316
-Nº REGISTRO: 
-POINTER GEO 
  
- 
- Página 8 de 8                                92316
+ Página 10 de 10                                102016

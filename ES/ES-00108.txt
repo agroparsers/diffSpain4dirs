@@ -122,7 +122,7 @@ ambiente, siga las instrucciones de uso.
 peligro 
 H317 - Puede provocar una reacción alérgica en la piel. 
 H319 - Provoca irritación ocular grave.  
- Página 2 de 4                                92316
+ Página 2 de 4                                102016
 Nº REGISTRO: 
 ARAW 
  
@@ -180,7 +180,7 @@ INTRUCCIONES DE USO," en caracteres que resalten el texto
 Condiciones de almacenamiento: -- 
   
 Requerimiento de datos/estudios complementarios:   
- Página 3 de 4                                92316
+ Página 3 de 4                                102016
 Nº REGISTRO: 
 ARAW 
  
@@ -189,4 +189,4 @@ Deberá presentarse un estudio de estabilidad a 2 años para el metil-eugenol en
 evaluación de los datos confirmatorios. 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

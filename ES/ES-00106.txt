@@ -63,14 +63,14 @@ Vid PODREDUMBRE NEGRA 0,24 2 12-14 1000 L/ha
   
 Plazos de Seguridad (Protección del consumidor):  
   
-Cultivo P.S. (días) 
-Vid 14 
  
      Página 1 de 4       Nº REGISTRO:   ES-00106  
 MISHA 20 EW
 Nº REGISTRO: 
 MISHA 20 EW 
  
+Cultivo P.S. (días) 
+Vid 14 
   
  
 Fecha de Liberación (Protección de Datos): 
@@ -112,10 +112,9 @@ Pictograma
 GSH05 (corrosión)  
 GSH07 (signo de exclamación)  
 GSH08 (peligro para la salud)  
-Peligro 
-Palabra 
+Palabra Peligro 
 Advertencia 
- Página 2 de 4                                92316
+ Página 2 de 4                                102016
 Nº REGISTRO: 
 MISHA 20 EW 
  
@@ -175,7 +174,7 @@ de 5 metros hasta las masas de agua superficial
  Eliminación Producto y/o caldo: -- 
  
 Gestión de envases:   
- Página 3 de 4                                92316
+ Página 3 de 4                                102016
 Nº REGISTRO: 
 MISHA 20 EW 
  
@@ -203,4 +202,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

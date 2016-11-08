@@ -136,14 +136,7 @@ Judías para 200-400
 grano l/ha 
 MALAS HIERBAS 
 DICOTILEDONEAS 
-MALAS HIERBAS 
-MONOCOTILEDONEAS 
-Judías 200-400 
-1,5 - 2 1 Aplicar en pre-emergencia (BBCH 00-05) 
-verdes l/ha 
-MALAS HIERBAS 
-DICOTILEDONEAS 
- Página 2 de 6                                92316
+ Página 2 de 6                                102016
 Nº REGISTRO: 
 BISMARK 
  
@@ -152,6 +145,13 @@ BISMARK
 USO AGENTE Min- Aplic. Vol. APLICACIÓN 
 máx. Caldo (Condic.Específico) 
 l/ha  
+MALAS HIERBAS 
+MONOCOTILEDONEAS 
+Judías 200-400 
+1,5 - 2 1 Aplicar en pre-emergencia (BBCH 00-05) 
+verdes l/ha 
+MALAS HIERBAS 
+DICOTILEDONEAS 
 MALAS HIERBAS 
 MONOCOTILEDONEAS 
 Aplicar en pre-emergencia o post-
@@ -204,10 +204,10 @@ Hinojo, Maíz, Patata, Soja, Tabaco, Zanahoria
   
  
 Fecha de Liberación (Protección de Datos): 
- 
- Página 3 de 6                                92316
+ Página 3 de 6                                102016
 Nº REGISTRO: 
 BISMARK 
+ 
  
 Cultivo - Agente Fecha de Liberación 
 Algodonero,Arroz,Cilantro,Colza,Espárrago,Guis
@@ -259,13 +259,13 @@ de peligro
 (Humana) 
 Pictograma 
 GSH07 (signo de exclamación)  
-Atención 
-Palabra 
-Advertencia 
- Página 4 de 6                                92316
+ Página 4 de 6                                102016
 Nº REGISTRO: 
 BISMARK 
  
+Atención 
+Palabra 
+Advertencia 
 EUH 401 - A fin de evitar riesgos para las personas y el medio 
 Indicaciones de 
 ambiente, siga las instrucciones de uso. 
@@ -296,8 +296,7 @@ GSH09 (medio ambiente)
 Atención 
 Palabra 
 Advertencia 
-H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
-Frases de Riesgo 
+Frases de Riesgo H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
 duraderos.  
 P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
 Consejos 
@@ -322,12 +321,12 @@ Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de
 depósito (del pulverizador). 
 Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases 
 de productos fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los 
-envases vacíos o resíduos de envases bien en los puntos de recogida establecidos por los 
-sistemas colectivos de responsabilidad ampliada (SIG) o directamente en el punto de venta 
- Página 5 de 6                                92316
+ Página 5 de 6                                102016
 Nº REGISTRO: 
 BISMARK 
  
+envases vacíos o resíduos de envases bien en los puntos de recogida establecidos por los 
+sistemas colectivos de responsabilidad ampliada (SIG) o directamente en el punto de venta 
 donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un 
 sistema de depósito, devolución y retorno 
   
@@ -348,4 +347,4 @@ ambiente en embalaje comercial así como cuatro ensayos de selectividad en culti
 mayores, de acuerdo con la guía. 
   
  
- Página 6 de 6                                92316
+ Página 6 de 6                                102016

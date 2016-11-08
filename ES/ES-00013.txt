@@ -70,7 +70,7 @@ Acelga 0,5 l/ha
 GRISES aplicación a la 
 aparición de la 
  
-     Página 1 de 16       Nº REGISTRO:   ES-
+     Página 1 de 18       Nº REGISTRO:   ES-
 00013  
 DELTAGRI
 Nº REGISTRO: 
@@ -83,11 +83,11 @@ máx. Caldo (Condic.Específico)
 plaga con un 
    
 volumen de 
-ORUGAS 
+PULGONES 
 caldo de 400-
 600 l/Ha. 
    
-PULGONES 
+ORUGAS 
    
 Efectuar hasta 
 GUSANOS 
@@ -103,17 +103,17 @@ caldo de 400-
 TRIPS 
 500 l/Ha. 
    
-ORUGAS 
+0,03 - 
+PULGONES 
+0,05 % 
 Efectuar hasta 
 3 aplicaciones 
-0,03 - 
 por campaña 
-0,05 % 
-con un 
    
+con un 
 volumen de 
 caldo de 1.000 
-Alcachofa PULGONES l/Ha, a 
+Alcachofa PULGUILLA 0,05 % l/Ha, a 
 intervalos 
 mínimos de 7 
 días, sin 
@@ -121,30 +121,80 @@ sobrepasar los
    
 0,5 l/Ha. por 
 aplicación. 
-PULGUILLA 0,05 % 
+0,03 - 
+ORUGAS 
+0,05 % 
    
-CUCA Efectuar 2 
+Efectuar 2 
 aplicaciones 
+CUCA 
 con un 
-   
 0,25 intervalo de 14 
-Alfalfa APION 
+Alfalfa 
 l/ha días y un 
+   
 volumen de 
-caldo de 400    
-MOSQUITO 
+APION 
+caldo de 400 
 l/Ha. 
+ Página 2 de 18                                102016
+Nº REGISTRO: 
+DELTAGRI 
+ 
+       
+  Dosis Nº Aplic.   FORMA Y ÉPOCA DE 
+USO AGENTE Min- Intervalos Vol. APLICACIÓN 
+máx. Caldo (Condic.Específico) 
+   
+MOSQUITO 
 VERDE 
 Aplicar a la aparición de la 
 plaga en el estadio de 
-Helicoverpa 0,5 - 0,7 300-500 
-crecimiento BBCH 69-79 
+Helicoverpa 0,5 - 0,7 300-500 crecimiento BBCH 69-79 
 Algodonero 1-2 14 
-armígera l/ha l/ha 
-(fin de la floración hasta 
+armígera l/ha l/ha (fin de la floración hasta 
 que el 90 % de la cápsulas 
 alcanzan el tamaño final). 
- Página 2 de 16                                92316
+Efectuar 2 aplicaciones con 
+0,03 - un intervalo de 14 días y un 
+PULGONES 
+0,05 % volumen de caldo de 1.400 
+l/Ha. 
+Almendro 
+      
+Efectuar 2 aplicaciones con 
+un intervalo de 14 días y un 
+ORUGAS 0,05 % 
+volumen de caldo de 1.000 
+l/Ha. 
+GUSANOS 0,3 - 0,5 
+GRISES l/ha 
+Efectuar 2 aplicaciones con 
+un intervalo de 14 días y un 
+Apio ORUGAS 
+      
+volumen de caldo de 700 
+l/Ha. 
+0,05 % 
+PULGONES 
+Aire libre e invernadero: 
+Efectuar hasta 3 
+MOSCA 
+0,07 % aplicaciones a intervalos de 
+BLANCA 
+7 días y un volumen de 
+caldo de 700 l/Ha. 
+Arbustos 
+PULGONES 
+      
+ornamentales 
+Aire libre e invernadero: 
+Efectuar hasta 3 
+0,05 % aplicaciones a intervalos de 
+7 días y un volumen de 
+caldo de 500-1.000 l /Ha. 
+TRIPS 
+ Página 3 de 18                                102016
 Nº REGISTRO: 
 DELTAGRI 
  
@@ -152,101 +202,55 @@ DELTAGRI
   Dosis Nº Aplic.   FORMA Y ÉPOCA DE 
 USO AGENTE Min- Intervalos Vol. APLICACIÓN 
 máx. Caldo (Condic.Específico) 
-Efectuar 2 aplicaciones con 
-0,03 - 
-un intervalo de 14 días y un 
-PULGONES 
-0,05 % 
-volumen de caldo de 1.400 
-Almendro       l/Ha. 
-Efectuar 2 aplicaciones con 
-un intervalo de 14 días y un 
-ORUGAS 0,05 % 
-volumen de caldo de 1.000 
-l/Ha. 
-PULGONES 0,05 % 
-Efectuar 2 aplicaciones con 
-GUSANOS 0,3 - 0,5 un intervalo de 14 días y un 
-Apio 
-      
-GRISES l/ha volumen de caldo de 700 
-l/Ha. 
-ORUGAS 0,05 % 
-Aire libre e invernadero: 
-Efectuar hasta 3 
-PULGONES 0,05 % 
-aplicaciones a intervalos de 
-7 días y un volumen de 
-caldo de 500-1.000 l /Ha. 
-Aire libre e invernadero: 
-Efectuar hasta 3 
-Arbustos MOSCA 
-0,07 %       
-aplicaciones a intervalos de 
-ornamentales BLANCA 
-7 días y un volumen de 
-caldo de 700 l/Ha. 
-Aire libre e invernadero: 
-Efectuar hasta 3 
-TRIPS 0,05 % 
-aplicaciones a intervalos de 
-7 días y un volumen de 
-caldo de 500-1.000 l /Ha. 
 Efectuar 2 aplicaciones con 
 un intervalo de 14 días y un 
 PULGONES 0,03 % 
 volumen de caldo de 1.400 
-Avellano l/Ha. 
+l/Ha. 
+Avellano 
       
 Efectuar 2 aplicaciones con 
 un intervalo de 14 días y un 
 ORUGAS 0,05 % 
 volumen de caldo de 1.000 
 l/Ha. 
-Efectuar hasta 3 
-aplicaciones al aire libre y 4 
-en invernadero a intervalos 
-PULGONES 0,05 % de 7 días con un volumen 
-de caldo 600-1.000 l/Ha. al 
-aire libre y 600-1.400 en 
-Berenjena 
-      
-invernadero 
-Aire libre e invernadero: 
-Efectuar hasta 3 
-0,3 - 0,5 
-GUSANOS 
-aplicaciones a intervalos de 
-l/ha 
-7 días y un volumen de 
-caldo de 300-500 l/Ha. 
- Página 3 de 16                                92316
-Nº REGISTRO: 
-DELTAGRI 
- 
-       
-  Dosis Nº Aplic.   FORMA Y ÉPOCA DE 
-USO AGENTE Min- Intervalos Vol. APLICACIÓN 
-máx. Caldo (Condic.Específico) 
 MOSCA 
 0,07 % 
 BLANCA 
+ORUGAS 0,05 % 
 Efectuar hasta 3 
 aplicaciones al aire libre y 4 
 en invernadero a intervalos 
-ORUGAS 0,05 % de 7 días con un volumen 
+de 7 días con un volumen 
 de caldo 600-1.000 l/Ha. al 
 aire libre y 600-1.400 en 
-invernadero 
+Berenjena invernadero 
+      
 CHINCHE 
 0,03 % 
 VERDE 
+PULGONES 0,05 % 
+Aire libre e invernadero: 
+Efectuar hasta 3 
+0,3 - 0,5 
+GUSANOS aplicaciones a intervalos de 
+l/ha 
+7 días y un volumen de 
+caldo de 300-500 l/Ha. 
 Efectuar 2 aplicaciones con 
 un intervalo de 14 días y un 
-PULGONES 0,03 % 
-volumen de caldo de 1.400 
-Castaño l/Ha. 
+Castaño PULGONES 0,03 % 
       
+volumen de caldo de 1.400 
+l/Ha. 
+ Página 4 de 18                                102016
+Nº REGISTRO: 
+DELTAGRI 
+ 
+       
+  Dosis Nº Aplic.   FORMA Y ÉPOCA DE 
+USO AGENTE Min- Intervalos Vol. APLICACIÓN 
+máx. Caldo (Condic.Específico) 
 Efectuar 2 aplicaciones con 
 un intervalo de 14 días y un 
 ORUGAS 0,05 % 
@@ -254,47 +258,40 @@ volumen de caldo de 1.000
 l/Ha. 
 Efectuar hasta 3 
 0,3 - 0,5 aplicaciones a intervalos de 
-Cebolla TRIPS 
-      
+Cebolla TRIPS       
 l/ha 14 días y un volumen de 
 caldo de 400-500 l/Ha. 
 Efectuar hasta 3 
 GUSANOS 0,3 - 0,5 aplicaciones a intervalos de 
-Cebollas       
+Cebollas 
+      
 GRISES l/ha 14 días y un volumen de 
 caldo de 400-500 l/Ha. 
-PULGONES 
+GUSANOS 
+GRISES 
 Efectuar una única 
 0,3 - 0,5 aplicación a la aparición de 
 Cereales       
 l/ha la plaga con un volumen de 
 caldo de 400-600 l/Ha. 
-GUSANOS 
-GRISES 
+PULGONES 
 Efectuar una única 
 aplicación a la aparición de 
 MOSCA DE LA 0,04 - 
-Cerezo 
+Cerezo la plaga, con un volumen 
       
-la plaga, con un volumen 
 CEREZA 0,05 % 
 de caldo de 1.000-1.400 
 l/Ha. 
-0,03 - Efectuar una única 
-Cítricos PULGONES 
+0,03 - 
+PULGONES 
+0,05 % 
+Efectuar una única 
+aplicación a la aparición de 
+Cítricos CERATITIS 
       
-0,05 % aplicación a la aparición de 
- Página 4 de 16                                92316
-Nº REGISTRO: 
-DELTAGRI 
- 
-       
-  Dosis Nº Aplic.   FORMA Y ÉPOCA DE 
-USO AGENTE Min- Intervalos Vol. APLICACIÓN 
-máx. Caldo (Condic.Específico) 
 la plaga con un volumen de 
 caldo de 1.000 l/Ha. 
-CERATITIS 
 0,05 % 
 COCHINILLAS 
 ORUGAS 
@@ -304,31 +301,35 @@ Colza
 0,05 % 14 días y un volumen de 
 caldo de 600 l/Ha. 
 PULGONES 
-Efectuar hasta 3 
-aplicaciones a intervalos de 
-14 días y un volumen de 
-PULGONES 0,05 % 
-caldo de 600-1.000 l/Ha. al 
-aire libre y hasta 1.400 
-l/Ha. en invernadero. 
+ Página 5 de 18                                102016
+Nº REGISTRO: 
+DELTAGRI 
+ 
+       
+  Dosis Nº Aplic.   FORMA Y ÉPOCA DE 
+USO AGENTE Min- Intervalos Vol. APLICACIÓN 
+máx. Caldo (Condic.Específico) 
 Efectuar hasta 3 
 GUSANOS 0,3 - 0,5 aplicaciones a intervalos de 
-Cucurbitáceas 
-      
 GRISES l/ha 14 días y un volumen de 
 caldo de 400-500 l/Ha. 
+ORUGAS 
 Efectuar hasta 3 
+Cucurbitáceas 
+      
 aplicaciones a intervalos de 
 14 días y un volumen de 
-ORUGAS 0,05 % 
+0,05 % 
 caldo de 600-1.000 l/Ha. al 
 aire libre y hasta 1.400 
 l/Ha. en invernadero. 
+PULGONES 
 GUSANOS 0,3 - 0,5 
-Efectuar 2 aplicaciones con 
 GRISES l/ha 
+Efectuar 2 aplicaciones con 
 un intervalo de 14 días y un 
-Escarola       
+Escarola 
+      
 volumen de caldo de 700 
 l/Ha. 
 ORUGAS 0,05 % 
@@ -338,18 +339,20 @@ Escarolas PULGONES 0,05 %
       
 volumen de caldo de 700 
 l/Ha. 
-TRIPS 
+CRIOCERO 
 600- Aplicar a la aparición de la 
 0,3 - 0,5 
-Espárrago CRIOCERO 1-2 14 1000 plaga. Aplicación en campo 
+Espárrago TRIPS 1-2 14 1000 plaga. Aplicación en campo 
 l/ha 
 l/ha posterior a la cosecha. 
 PULGONES 
 Efectuar 2 aplicaciones con 
-Espinaca PULGONES 0,05 % 
+GUSANOS 0,35 un intervalo de 14 días y un 
+Espinaca 
       
-un intervalo de 14 días y un 
- Página 5 de 16                                92316
+GRISES l/ha volumen de caldo de 700 
+l/Ha. 
+ Página 6 de 18                                102016
 Nº REGISTRO: 
 DELTAGRI 
  
@@ -357,68 +360,47 @@ DELTAGRI
   Dosis Nº Aplic.   FORMA Y ÉPOCA DE 
 USO AGENTE Min- Intervalos Vol. APLICACIÓN 
 máx. Caldo (Condic.Específico) 
-volumen de caldo de 700 
-GUSANOS 0,35 
-l/Ha. 
-GRISES l/ha 
-ORUGAS 0,05 % 
+PULGONES 
+0,05 % 
+ORUGAS 
 Aire libre e invernadero: 
 Efectuar hasta 3 
-Fresales PULGONES 0,05 % 
-      
-aplicaciones a intervalos de 
+Fresales PULGONES 0,05 %       aplicaciones a intervalos de 
 7 días y un volumen de 
 caldo de 500-1.000 l /Ha. 
+ORUGAS 
 0,03 - 
-PULGONES 
 0,05 % 
 Efectuar una única 
 aplicación a la aparición de 
 Frutales de 
-CERATITIS 0,05 % la plaga, con un volumen 
+PULGONES la plaga, con un volumen 
       
 hueso 
 de caldo de 1.000-1.400 
 l/Ha. 
-0,03 - 
-ORUGAS 
-0,05 % 
+CERATITIS 0,05 % 
 Efectuar 2 aplicaciones con 
-0,03 - un intervalo de 14 días y un 
-PULGONES 
-0,05 % volumen de caldo de 1.000-
-1.400 l/Ha. 
-Efectuar 2 aplicaciones con 
-Frutales de 
 un intervalo de 14 días y un 
-PSILA 0,05 %       
-pepita 
+PSILA 0,05 % 
 volumen de caldo de 1.000 
 l/Ha. 
+ORUGAS 
+Frutales de 
+      
+pepita 
 Efectuar 2 aplicaciones con 
 0,03 - un intervalo de 14 días y un 
-ORUGAS 
 0,05 % volumen de caldo de 1.000-
 1.400 l/Ha. 
-ORUGAS 
+PULGONES 
 Efectuar una única 
 0,03 - aplicación a la aparición de 
-Girasol       
+Girasol ORUGAS 
+      
 0,05 % la plaga con un volumen de 
 caldo de 600 l/Ha. 
-PULGONES 
-0,25 
-PULGONES 
-Efectuar 2 aplicaciones con 
-l/ha 
-Guisantes un intervalo de 14 días y un 
-      
-para grano volumen de caldo de 1.000 
-0,3 - 0,5 
-l/Ha. 
-ORUGAS 
-l/ha 
- Página 6 de 16                                92316
+ Página 7 de 18                                102016
 Nº REGISTRO: 
 DELTAGRI 
  
@@ -426,78 +408,57 @@ DELTAGRI
   Dosis Nº Aplic.   FORMA Y ÉPOCA DE 
 USO AGENTE Min- Intervalos Vol. APLICACIÓN 
 máx. Caldo (Condic.Específico) 
-Efectuar 2 aplicaciones con 
-GUSANOS un intervalo de 14 días y un 
-GRISES volumen de caldo de 300-
-500/l/Ha. 
-Efectuar 2 aplicaciones con 
-un intervalo de 14 días y un 
-TRIPS 
-volumen de caldo de 1.000 
-l/Ha. 
-Efectuar 2 aplicaciones con 
+PULGONES 
 0,25 
-un intervalo de 14 días y un 
 PULGONES 
 l/ha 
-volumen de caldo de 1.000 
-l/Ha. 
-Efectuar 2 aplicaciones con 
-GUSANOS un intervalo de 14 días y un 
-GRISES volumen de caldo de 300-
-Guisantes 
-500/l/Ha. 
-      
-verdes 
-0,3 - 0,5 
-l/ha 
-TRIPS 
 Efectuar 2 aplicaciones con 
 un intervalo de 14 días y un 
 volumen de caldo de 1.000 
 l/Ha. 
 ORUGAS 
-PULGONES 0,05 % 
+Guisantes 
+      
+para grano 
+Efectuar 2 aplicaciones con 
+GUSANOS 0,3 - 0,5 un intervalo de 14 días y un 
+GRISES l/ha volumen de caldo de 300-
+500/l/Ha. 
+Efectuar 2 aplicaciones con 
+un intervalo de 14 días y un 
+TRIPS 
+volumen de caldo de 1.000 
+l/Ha. 
+Efectuar 2 aplicaciones con 
+GUSANOS 0,3 - 0,5 un intervalo de 14 días y un 
+GRISES l/ha volumen de caldo de 300-
+500/l/Ha. 
+0,25 
+PULGONES 
+l/ha 
+Guisantes 
+      
+verdes 
+Efectuar 2 aplicaciones con 
+un intervalo de 14 días y un 
+TRIPS 
+volumen de caldo de 1.000 
+l/Ha. 
+0,3 - 0,5 
+l/ha 
+ORUGAS 
+GUSANOS 0,3 - 0,5 
+GRISES l/ha 
 Efectuar 2 aplicaciones con 
 Hortalizas del 
-GUSANOS 0,3 - 0,5 un intervalo de 14 días y un 
+un intervalo de 14 días y un 
 género 
       
-GRISES l/ha volumen de caldo de 500 
+volumen de caldo de 500 
 brassica 
 l/Ha. 
 ORUGAS 0,05 % 
-Aire libre e invernadero: 
-Efectuar hasta 3 
-PULGONES 0,05 % 
-aplicaciones a intervalos de 
-7 días y un volumen de 
-caldo de 500-1.000 l /Ha. 
-Efectuar hasta 3 
-GUSANOS 0,3 - 0,5 aplicaciones a intervalos de 
-Lechuga       
-GRISES l/ha 14 días y un volumen de 
-caldo de 400-500 l/Ha. 
-Aire libre e invernadero: 
-Efectuar hasta 3 
-ORUGAS 0,05 % 
-aplicaciones a intervalos de 
-7 días y un volumen de 
-caldo de 500-1.000 l /Ha. 
-Efectuar 2 aplicaciones con 
-0,03 - un intervalo de 14 días y un 
-PULGONES 
-0,057 % volumen de caldo de 500-
-1.000 l/Ha. 
-Leguminosas 
-      
-Efectuar 2 aplicaciones con 
-GUSANOS 0,3 - 0,5 
-un intervalo de 14 días y un 
-GRISES l/ha 
-volumen de caldo de 500 
-l/Ha. 
- Página 7 de 16                                92316
+ Página 8 de 18                                102016
 Nº REGISTRO: 
 DELTAGRI 
  
@@ -505,28 +466,60 @@ DELTAGRI
   Dosis Nº Aplic.   FORMA Y ÉPOCA DE 
 USO AGENTE Min- Intervalos Vol. APLICACIÓN 
 máx. Caldo (Condic.Específico) 
-Efectuar 2 aplicaciones con 
-0,03 - un intervalo de 14 días y un 
-ORUGAS 
-0,05 % volumen de caldo de 500-
-1.000 l/Ha. 
-0,3 - 0,5 
 PULGONES 
-l/ha 
-Efectuar 3 aplicaciones con 
-GUSANOS un intervalo de 14 días y un 
-Maíz 0,5 l/ha       
-GRISES volumen de caldo de 600 
-l/Ha. 
-0,3 - 0,5 
+Efectuar hasta 3 
+GUSANOS 0,3 - 0,5 aplicaciones a intervalos de 
+GRISES l/ha 14 días y un volumen de 
+caldo de 400-500 l/Ha. 
 ORUGAS 
-l/ha 
+Lechuga       
+Aire libre e invernadero: 
+Efectuar hasta 3 
+0,05 % aplicaciones a intervalos de 
+7 días y un volumen de 
+caldo de 500-1.000 l /Ha. 
+PULGONES 
+Efectuar 2 aplicaciones con 
+GUSANOS 0,3 - 0,5 un intervalo de 14 días y un 
+GRISES l/ha volumen de caldo de 500 
+l/Ha. 
+0,03 - 
+ORUGAS 
+0,05 % 
+Leguminosas       
 Efectuar 2 aplicaciones con 
 un intervalo de 14 días y un 
-PULGONES 0,03 % 
-volumen de caldo de 1.400 
-Nogal l/Ha. 
+volumen de caldo de 500-
+1.000 l/Ha. 
+0,03 - 
+PULGONES 
+0,057 % 
+GUSANOS 
+0,5 l/ha 
+GRISES 
+Efectuar 3 aplicaciones con 
+un intervalo de 14 días y un 
+Maíz ORUGAS 
       
+volumen de caldo de 600 
+l/Ha. 
+0,3 - 0,5 
+l/ha 
+PULGONES 
+Efectuar 2 aplicaciones con 
+un intervalo de 14 días y un 
+Nogal PULGONES 0,03 % 
+      
+volumen de caldo de 1.400 
+l/Ha. 
+ Página 9 de 18                                102016
+Nº REGISTRO: 
+DELTAGRI 
+ 
+       
+  Dosis Nº Aplic.   FORMA Y ÉPOCA DE 
+USO AGENTE Min- Intervalos Vol. APLICACIÓN 
+máx. Caldo (Condic.Específico) 
 Efectuar 2 aplicaciones con 
 un intervalo de 14 días y un 
 ORUGAS 0,05 % 
@@ -536,29 +529,33 @@ PRAYS (GEN.
 0,03 % 
 ANTOFAGA) 
 MOSCA 
-0,05 % 
 Efectuar una única 
 aplicación a la aparición de 
-PRAYS (GEN. 
-Olivo       la plaga, con un volumen 
-CARPOFAGA) 
+Olivo SAISSETIA 0,05 %       la plaga, con un volumen 
 de caldo de 1.000-1.400 
 l/Ha. 
+PRAYS (GEN. 
+CARPOFAGA) 
 0,03 - 
 ALGODÓN 
 0,05 % 
-SAISSETIA 0,05 % 
 PULGONES 
 Aire libre e invernadero: 
 Efectuar hasta 3 
-Ornamentales 
 0,05 % aplicaciones a intervalos de 
-      
-herbáceas 
 7 días y un volumen de 
 caldo de 500-1.000 l /Ha. 
-TRIPS 
- Página 8 de 16                                92316
+Ornamentales 
+TRIPS       
+herbáceas 
+Aire libre e invernadero: 
+Efectuar hasta 3 
+MOSCA 
+0,07 % aplicaciones a intervalos de 
+BLANCA 
+7 días y un volumen de 
+caldo de 700 l/Ha. 
+ Página 10 de 18                                102016
 Nº REGISTRO: 
 DELTAGRI 
  
@@ -566,14 +563,6 @@ DELTAGRI
   Dosis Nº Aplic.   FORMA Y ÉPOCA DE 
 USO AGENTE Min- Intervalos Vol. APLICACIÓN 
 máx. Caldo (Condic.Específico) 
-Aire libre e invernadero: 
-Efectuar hasta 3 
-MOSCA 
-0,07 % 
-aplicaciones a intervalos de 
-BLANCA 
-7 días y un volumen de 
-caldo de 700 l/Ha. 
 Aire libre. Efectuar hasta 3 
 aplicaciones a intervalos de 
 ORUGAS 0,035 % 
@@ -584,48 +573,33 @@ Efectuar 3 aplicaciones con
 un intervalo de 14 días y un 
 Patata       
 volumen de caldo de 600 
+l/Ha. 
 ROSQUILLA 0,3 - 0,5 
-l/Ha. 
 NEGRA l/ha 
-PULGONES 0,05 % 
+GUSANOS 0,3 - 0,5 
+GRISES l/ha 
 Efectuar 2 aplicaciones con 
-GUSANOS 0,3 - 0,5 un intervalo de 14 días y un 
-Perejil 
-      
-GRISES l/ha volumen de caldo de 700 
+un intervalo de 14 días y un 
+Perejil ORUGAS       
+volumen de caldo de 700 
 l/Ha. 
-ORUGAS 0,05 % 
-Efectuar hasta 3 
-aplicaciones al aire libre y 4 
-en invernadero a intervalos 
-PULGONES 0,05 % de 7 días con un volumen 
-de caldo 600-1.000 l/Ha. al 
-aire libre y 600-1.400 en 
-invernadero 
-Aire libre e invernadero: 
-Efectuar hasta 3 
-0,3 - 0,5 
-GUSANOS 
-aplicaciones a intervalos de 
-l/ha 
-7 días y un volumen de 
-caldo de 300-500 l/Ha. 
-Pimiento 
-      
+0,05 % 
+PULGONES 
 MOSCA 
 0,07 % 
 BLANCA 
 Efectuar hasta 3 
 aplicaciones al aire libre y 4 
 en invernadero a intervalos 
-de 7 días con un volumen 
+CHINCHE 
+Pimiento 0,03 % de 7 días con un volumen 
+      
+VERDE 
 de caldo 600-1.000 l/Ha. al 
 aire libre y 600-1.400 en 
 invernadero 
-CHINCHE 
-0,03 % 
-VERDE 
- Página 9 de 16                                92316
+ORUGAS 0,05 % 
+ Página 11 de 18                                102016
 Nº REGISTRO: 
 DELTAGRI 
  
@@ -633,20 +607,25 @@ DELTAGRI
   Dosis Nº Aplic.   FORMA Y ÉPOCA DE 
 USO AGENTE Min- Intervalos Vol. APLICACIÓN 
 máx. Caldo (Condic.Específico) 
-ORUGAS 0,05 % 
+PULGONES 
+Aire libre e invernadero: 
+Efectuar hasta 3 
+0,3 - 0,5 
+GUSANOS aplicaciones a intervalos de 
+l/ha 
+7 días y un volumen de 
+caldo de 300-500 l/Ha. 
 GUSANOS 
 GRISES 
 Efectuar hasta 3 
 0,3 - 0,5 aplicaciones a intervalos de 
-Puerro 
-      
+Puerro       
 l/ha 14 días y un volumen de 
 caldo de 400-500 l/Ha. 
 TRIPS 
-ORUGAS 
-MINADORES 
+PULGONES 
+COLEOPTEROS 
 Aplicar a la aparición de la 
-DE HOJAS 
 plaga en el estadío BBCH 
 500- 15-48 (desde la 5ª hoja 
 0,3 - 0,5 
@@ -654,17 +633,11 @@ Rábano 1-3 14 1000 desplegada hasta que se
 l/ha 
 l/ha alcanza el 80 % del 
 diámetro esperado de la 
-PULGONES raíz). 
-COLEOPTEROS 
+raíz). 
 ORUGAS 
-Efectuar una única 
-Remolacha GUSANOS aplicación a la aparición de 
-0,5 l/ha 
-      
-azucarera GRISES la plaga con un volumen de 
-caldo de 400-600 l/Ha. 
-PULGONES 
- Página 10 de 16                                92316
+MINADORES 
+DE HOJAS 
+ Página 12 de 18                                102016
 Nº REGISTRO: 
 DELTAGRI 
  
@@ -672,14 +645,24 @@ DELTAGRI
   Dosis Nº Aplic.   FORMA Y ÉPOCA DE 
 USO AGENTE Min- Intervalos Vol. APLICACIÓN 
 máx. Caldo (Condic.Específico) 
-PULGONES 0,05 % 
+ORUGAS 
+Efectuar una única 
+Remolacha aplicación a la aparición de 
+PULGONES 0,5 l/ha       
+azucarera la plaga con un volumen de 
+caldo de 400-600 l/Ha. 
+GUSANOS 
+GRISES 
+GUSANOS 0,3 - 0,5 
+GRISES l/ha 
 Efectuar 2 aplicaciones con 
-GUSANOS 0,3 - 0,5 un intervalo de 14 días y un 
-Rúcula 
+un intervalo de 14 días y un 
+Rúcula ORUGAS 
       
-GRISES l/ha volumen de caldo de 700 
+volumen de caldo de 700 
 l/Ha. 
-ORUGAS 0,05 % 
+0,05 % 
+PULGONES 
 GUSANOS 
 GRISES 
 Efectuar hasta 3 
@@ -689,29 +672,21 @@ Tabaco
 l/ha 14 días y un volumen de 
 caldo de 500-1.000 l/Ha. 
 TRIPS 
-PULGONES 0,05 % 
 MOSCA 
 0,07 % 
-BLANCA Efectuar hasta 3 
+BLANCA 
+Efectuar hasta 3 
 aplicaciones al aire libre y 4 
 en invernadero a intervalos 
-de 7 días con un volumen 
+Tomate de 7 días con un volumen 
+      
 de caldo 600-1.000 l/Ha. al 
 aire libre y 600-1.400 en 
-Tomate       
 invernadero 
 CHINCHE 
 0,03 % 
 VERDE 
-ORUGAS 0,05 % 
-Aire libre e invernadero: 
-Efectuar hasta 3 
-GUSANOS 0,3 - 0,5 
-aplicaciones a intervalos de 
-GRISES l/ha 
-7 días y un volumen de 
-caldo de 300-500 l/Ha. 
- Página 11 de 16                                92316
+ Página 13 de 18                                102016
 Nº REGISTRO: 
 DELTAGRI 
  
@@ -719,6 +694,16 @@ DELTAGRI
   Dosis Nº Aplic.   FORMA Y ÉPOCA DE 
 USO AGENTE Min- Intervalos Vol. APLICACIÓN 
 máx. Caldo (Condic.Específico) 
+ORUGAS 
+0,05 % 
+PULGONES 
+Aire libre e invernadero: 
+Efectuar hasta 3 
+GUSANOS 0,3 - 0,5 
+aplicaciones a intervalos de 
+GRISES l/ha 
+7 días y un volumen de 
+caldo de 300-500 l/Ha. 
 Efectuar hasta 3 
 aplicaciones a intervalos de 
 14 días y un volumen de 
@@ -726,20 +711,17 @@ POLILLAS DEL 0,05 -
 caldo de 1.000 l/Ha. Tratar 
 RACIMO 0,07 % 
 la 1ª generación a dosis de 
-Vid       
 0,05% y la 2ª y 3ª a dosis de 
+Vid 
+      
 0,05-0,07%. 
 Efectuar hasta 3 
-MOSQUITO 
-aplicaciones a intervalos de 
+MOSQUITO aplicaciones a intervalos de 
 0,05 % 
-VERDE 
-14 días y un volumen de 
+VERDE 14 días y un volumen de 
 caldo de 1.000 l/Ha. 
-ORUGAS 
-MINADORES 
+PULGONES 
 Aplicar a la aparición de la 
-DE HOJAS 
 plaga en el estadío BBCH 
 500- 15-48 (desde la 5ª hoja 
 0,3 - 0,5 
@@ -747,8 +729,19 @@ Zanahoria 1-3 14 1000 desplegada hasta que se
 l/ha 
 l/ha alcanza el 80 % del 
 diámetro esperado de la 
-PULGONES raíz). 
+raíz). 
 COLEOPTEROS 
+ Página 14 de 18                                102016
+Nº REGISTRO: 
+DELTAGRI 
+ 
+       
+  Dosis Nº Aplic.   FORMA Y ÉPOCA DE 
+USO AGENTE Min- Intervalos Vol. APLICACIÓN 
+máx. Caldo (Condic.Específico) 
+ORUGAS 
+MINADORES 
+DE HOJAS 
   
 Plazos de Seguridad (Protección del consumidor):  
   
@@ -762,11 +755,6 @@ Castaño, Cereales, Cítricos, Maíz, Nogal, 30
 Remolacha azucarera 
 Colza 45 
 Girasol 60 
- Página 12 de 16                                92316
-Nº REGISTRO: 
-DELTAGRI 
- 
-Cultivo P.S. (días) 
 Ajos, Cebolla, Cebollas, Cerezo, Frutales de 
 hueso, Frutales de pepita, Guisantes para grano, 
 Guisantes verdes, Hortalizas del género 7 
@@ -781,12 +769,17 @@ Fecha de Liberación (Protección de Datos):
  
 Cultivo - Agente Fecha de Liberación 
 Algodonero - Helicoverpa armígera 18/04/2026 
-Espárrago - TRIPS 18/04/2026 
 Espárrago - CRIOCERO 18/04/2026 
+Espárrago - TRIPS 18/04/2026 
 Espárrago,Rábano,Zanahoria - PULGONES 18/04/2026 
-Rábano,Zanahoria - ORUGAS 18/04/2026 
-Rábano,Zanahoria - MINADORES DE HOJAS 18/04/2026 
 Rábano,Zanahoria - COLEOPTEROS 18/04/2026 
+Rábano,Zanahoria - ORUGAS 18/04/2026 
+ Página 15 de 18                                102016
+Nº REGISTRO: 
+DELTAGRI 
+ 
+Cultivo - Agente Fecha de Liberación 
+Rábano,Zanahoria - MINADORES DE HOJAS 18/04/2026 
  
 Condiciones generales de uso:   
 Aplicar en pulverización foliar. 
@@ -816,10 +809,6 @@ volver a entrar
   
 Clasificaciones y Etiquetado: 
  
- Página 13 de 16                                92316
-Nº REGISTRO: 
-DELTAGRI 
- 
 Irritación cutánea. Categoría 2. 
 Clase y categoría 
 Lesión ocular grave. Categoría 1. 
@@ -837,6 +826,10 @@ GSH07 (signo de exclamación)
 GSH08 (peligro para la salud)  
 Palabra Peligro 
 Advertencia 
+ Página 16 de 18                                102016
+Nº REGISTRO: 
+DELTAGRI 
+ 
 EUH 401 - A fin de evitar riesgos para las personas y el medio 
 Indicaciones de 
 ambiente, siga las instrucciones de uso. 
@@ -874,10 +867,6 @@ Pictograma
 GSH09 (medio ambiente)  
 Palabra Atención 
 Advertencia 
- Página 14 de 16                                92316
-Nº REGISTRO: 
-DELTAGRI 
- 
 H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
 Frases de Riesgo 
 duraderos.  
@@ -898,6 +887,10 @@ de 20 m. hasta la zona no cultivada o de 10 m. usando boquillas de reducción de
 SPe 8: Peligroso para las abejas. Para proteger las abejas y otros insectos polinizadores, no 
 aplicar durante la floración de los cultivos, no aplicar donde haya abejas en pecoreo activo. 
 SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad 
+ Página 17 de 18                                102016
+Nº REGISTRO: 
+DELTAGRI 
+ 
 de 25 m., (15 m. usando boquillas de reducción de deriva de +50%, 10 m. con boquillas de 
 +90%) en cítricos, 35 m. (30 m. usando boquillas de reducción de deriva de +50%, 15 m. con 
 boquillas de +90%) en frutales, 30 m. (20 m. usando boquillas de reducción de deriva de 
@@ -931,10 +924,6 @@ al público en general
 Condiciones de almacenamiento: -- 
   
 Requerimiento de datos/estudios complementarios:   
- Página 15 de 16                                92316
-Nº REGISTRO: 
-DELTAGRI 
- 
 El solicitante debería aportar información adicional de eficacia para justificar el uso del 
 producto con al menos 5 ensayos adicionales sobre cada una de las plagas diana (Semiaphis 
 dauci y Depressaria marcella) en zanahoria y al menos 2 ensayos en rábano en las plagas 
@@ -945,4 +934,4 @@ la norma EPPO PP1/226 "Number of Efficacy Trials"), para justificar el uso del p
 espárrago sobre las plagas de Thrips tabaci y Crioceris asparagi. 
   
  
- Página 16 de 16                                92316
+ Página 18 de 18                                102016

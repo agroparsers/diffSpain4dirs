@@ -65,24 +65,26 @@ Kg/ha
 MALAS 
 Centeno 0,25 1 200-300 l/ha Centeno de invierno. 
 HIERBAS 
-Trigo MALAS 0,25 1 200-300 l/ha 
+Trigo MALAS 
+0,25 1 200-300 l/ha 
   
 blando HIERBAS 
-Trigo duro MALAS 0,25 1 200-300 l/ha 
+MALAS 
+Trigo duro 0,25 1 200-300 l/ha 
   
 HIERBAS 
 MALAS 
 Triticale 0,25 1 200-300 l/ha Triticale de invierno 
 HIERBAS 
-  
-Plazos de Seguridad (Protección del consumidor):  
-  
  
      Página 1 de 4       Nº REGISTRO:   ES-00153  
 SERRATE
 Nº REGISTRO: 
 SERRATE 
  
+  
+Plazos de Seguridad (Protección del consumidor):  
+  
 Cultivo P.S. (días) 
 Centeno, Trigo blando, Trigo duro, Triticale NP 
   
@@ -119,7 +121,8 @@ No entrar en los cultivos tratados hasta que se haya secado la pulverización
   
 Clasificaciones y Etiquetado: 
  
-Clase y categoría Sensibilizantes cutáneos. Categoría 1 A. 
+Sensibilizantes cutáneos. Categoría 1 A. 
+Clase y categoría 
 Tóxicos específicos en determinados órganos tras exposiciones 
 de peligro 
 repetidas. Categoría 2. 
@@ -130,7 +133,7 @@ GSH08 (peligro para la salud)
 Atención 
 Palabra 
 Advertencia 
- Página 2 de 4                                92316
+ Página 2 de 4                                102016
 Nº REGISTRO: 
 SERRATE 
  
@@ -193,7 +196,7 @@ sistemas colectivos de responsabilidad ampliada (SIG) o directamente en el punto
 donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un 
 sistema de depósito, devolución y retorno 
   
- Página 3 de 4                                92316
+ Página 3 de 4                                102016
 Nº REGISTRO: 
 SERRATE 
  
@@ -212,4 +215,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

@@ -123,7 +123,7 @@ P262 - Evitar el contacto con los ojos, la piel o la ropa.
 P304+P340 - EN CASO DE INHALACIÓN: Transportar a la víctima al 
 exterior y mantenerla en reposo en una posición confortable para 
 respirar. 
- Página 2 de 3                                92316
+ Página 2 de 3                                102016
 Nº REGISTRO: 
 DIMBO 480 SL 
  
@@ -179,4 +179,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 3 de 3                                92316
+ Página 3 de 3                                102016

@@ -88,25 +88,18 @@ Ciruelas BOTRITIS 0,2 - 0,3 1
 solución por tonelada de fruta (12 ml de 
 producto/tonelada de fruta). 
 RIZOPUS 
-COLLETOTRICHUM 
 PENICILIUM 
+BOTRITIS 
 En el caso de pulverización en línea, la dosis será 
 Frutos cítricos 0,2 - 0,3 1 1.25 l/Hl y se aplicará 1 l de solución por tonelada 
 de fruta (12,4 ml de producto/tonelada de fruta). 
-BOTRITIS 
 RIZOPUS 
 COLLETOTRICHUM 
-GLOEOSPORIUM 
+COLLETOTRICHUM 
 Manzanas 0,2 - 0,3 1 
   
-PENICILIUM 
-BOTRITIS 
-Melocotones En el caso de pulverización en línea, la dosis de 
-(incluidas las aplicación será 0.8-1.2 l/Hl y se aplicará 1 l de 
-MONILIA 0,2 - 0,3 1 
-nectarinas e solución por tonelada de fruta (12 ml de 
-híbridos) producto/tonelada de fruta). 
- Página 2 de 5                                92316
+GLOEOSPORIUM 
+ Página 2 de 5                                102016
 Nº REGISTRO: 
 SCHOLAR 230 SC 
  
@@ -115,11 +108,19 @@ SCHOLAR 230 SC
 USO AGENTE Min- Aplic. (Condic.Específico) 
 máx. 
 l/Hl  
-BOTRITIS 
-RIZOPUS 
-COLLETOTRICHUM 
 PENICILIUM 
-Peras 0,2 - 0,3 1   
+BOTRITIS 
+MONILIA 
+Melocotones En el caso de pulverización en línea, la dosis de 
+(incluidas las aplicación será 0.8-1.2 l/Hl y se aplicará 1 l de 
+BOTRITIS 0,2 - 0,3 1 
+nectarinas e solución por tonelada de fruta (12 ml de 
+híbridos) producto/tonelada de fruta). 
+RIZOPUS 
+PENICILIUM 
+COLLETOTRICHUM 
+Peras 0,2 - 0,3 1 
+  
 BOTRITIS 
 GLOEOSPORIUM 
   
@@ -140,6 +141,10 @@ inmersión durante 30-60 segundos previamente a la entrada de la fruta en la cá
  
 Excepciones: -- 
   
+ Página 3 de 5                                102016
+Nº REGISTRO: 
+SCHOLAR 230 SC 
+ 
 Clase de usuario:   
 Uso profesional 
   
@@ -151,14 +156,12 @@ SPo 2: Lávese toda la ropa de protección después de usarla
   
 Clasificaciones y Etiquetado: 
  
- Página 3 de 5                                92316
-Nº REGISTRO: 
-SCHOLAR 230 SC 
+Clase y categoría 
  
-Clase y categoría  
 de peligro 
 (Humana) 
-Pictograma  
+Pictograma 
+ 
 -- 
 Palabra 
 Advertencia 
@@ -184,10 +187,10 @@ GSH09 (medio ambiente)
 -- 
 Palabra 
 Advertencia 
-Frases de Riesgo H411 - Tóxico para los organismos acuáticos, con efectos nocivos 
+H411 - Tóxico para los organismos acuáticos, con efectos nocivos 
+Frases de Riesgo 
 duraderos.  
-P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
-Consejos 
+Consejos P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
 previsto) 
 Prudencia 
 P391 - Recoger el vertido. 
@@ -199,6 +202,10 @@ SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el texto.
 Mitigación de riesgos ambientales: -- 
   
  Eliminación Producto y/o caldo:   
+ Página 4 de 5                                102016
+Nº REGISTRO: 
+SCHOLAR 230 SC 
+ 
 Los restos de caldo procedentes de los tratamientos deberán ser depurados 
 mediante un sistema homologado, garantizando que la concentración máxima en el 
 efluente que vierta a las aguas no supere los 0.00837 microgramos/l. 
@@ -211,10 +218,6 @@ Gestión de envases:
 Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al 
 depósito (del pulverizador). 
 Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases 
- Página 4 de 5                                92316
-Nº REGISTRO: 
-SCHOLAR 230 SC 
- 
 de productos fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los 
 envases vacíos o resíduos de envases bien en los puntos de recogida establecidos por los 
 sistemas colectivos de responsabilidad ampliada (SIG) o directamente en el punto de venta 
@@ -230,4 +233,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 5 de 5                                92316
+ Página 5 de 5                                102016

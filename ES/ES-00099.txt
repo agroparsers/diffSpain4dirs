@@ -64,13 +64,17 @@ Frutales de hoja caduca BABOSAS 50 1-4 1
 Hierbas aromáticas BABOSAS 50 1-4 1 
 Hortícolas BABOSAS 50 1-4 1 
 Ornamentales BABOSAS 50 1-4 1 
-Patata BABOSAS 50 1-4 1 
  
      Página 1 de 3       Nº REGISTRO:   ES-00099  
   COM 802 09 M RB
 Nº REGISTRO: 
   COM 802 09 M RB 
  
+     
+  Dosis Nº Aplic.  
+USO AGENTE Min-máx. Intervalos 
+Kg/ha  
+Patata BABOSAS 50 1-4 1 
   
 Plazos de Seguridad (Protección del consumidor):  
   
@@ -116,17 +120,16 @@ peligro
 P262 - Evitar el contacto con los ojos, la piel o la ropa. 
 Consejos de 
 Prudencia 
+ Página 2 de 3                                102016
+Nº REGISTRO: 
+  COM 802 09 M RB 
+ 
 Clase y categoría  
 de peligro 
 (Medio ambiental) 
 Pictograma  
-Palabra 
- 
+Palabra  
 Advertencia 
- Página 2 de 3                                92316
-Nº REGISTRO: 
-  COM 802 09 M RB 
- 
 Frases de Riesgo  
 Consejos  
 Prudencia 
@@ -165,4 +168,4 @@ El titular de esta autorización deberá presentar a más tardar el 1 de abril d
 de renovación de la presenta autorización. 
   
  
- Página 3 de 3                                92316
+ Página 3 de 3                                102016

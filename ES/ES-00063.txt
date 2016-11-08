@@ -166,8 +166,7 @@ l/Ha
 ANUALES 
 MALAS 
 250 - 800 Aplicar en pre emergencia o pretrasplante del 
-Pimiento 4 - 4,8 1 
-HIERBAS 
+Pimiento HIERBAS 4 - 4,8 1 
 l/Ha cultivo. 
 ANUALES 
 MALAS 
@@ -176,20 +175,13 @@ Soja 3 - 6 1 Aplicar en pre emergencia del cultivo.
 HIERBAS 
 l/Ha 
 ANUALES 
-MALAS 250 - 800 
-3,6 - 4,8 Aplicar pretrasplante del cultivo. 
-HIERBAS l/Ha 
-Tabaco 1 
-300 - 500 Aplicar al aparecer las primeras flores a razón 
-DESHIJADO 4,5 - 7,5 
-ANUALES 
-l/Ha de 20 cc/planta. 
 MALAS 
-250 - 800 Aplicar durante la parada invernal en estado 
-Vid HIERBAS 4 - 6 1 
-l/Ha de yema dormida. 
+250 - 800 
+Tabaco 3,6 - 4,8 1 Aplicar pretrasplante del cultivo. 
+HIERBAS 
+l/Ha 
 ANUALES 
- Página 2 de 5                                92316
+ Página 2 de 5                                102016
 Nº REGISTRO: 
 SHARPEN 33% EC 
  
@@ -198,6 +190,14 @@ SHARPEN 33% EC
 USO AGENTE Min- Aplic. Vol. (Condic.Específico) 
 máx. Caldo 
 l/ha  
+300 - 500 Aplicar al aparecer las primeras flores a razón 
+DESHIJADO 4,5 - 7,5 
+l/Ha de 20 cc/planta. 
+MALAS 
+250 - 800 Aplicar durante la parada invernal en estado 
+Vid HIERBAS 4 - 6 1 
+l/Ha de yema dormida. 
+ANUALES 
 MALAS 
 Viveros de 250 - 800 Aplicar en pre o postrasplante de las 
 4 - 6 1 
@@ -246,18 +246,19 @@ Mitigación de riesgos en la manipulación:
 El aplicador deberá utilizar guantes de protección durante la mezcla/carga, aplicación y 
 limpieza del equipo; máscara de protección facial FFP2SL durante la mezcla/carga y 
 aplicación; ropa de protección adecuada para el tronco y las piernas (tipo 4) y calzado 
+ Página 3 de 5                                102016
+Nº REGISTRO: 
+SHARPEN 33% EC 
+ 
 adecuado durante la aplicación. Durante la aplicación mediante tractor con cabina cerrada se 
 podrá prescindir del equipo de protección. No entrar al cultivo hasta que el producto esté 
 seco. Para la reentrada el trabajador deberá utilizar guantes, ropa y calzado adecuado. 
 SPo 2: Lávese toda la ropa de protección después de usarla 
   
 Clasificaciones y Etiquetado: 
- Página 3 de 5                                92316
-Nº REGISTRO: 
-SHARPEN 33% EC 
  
- 
-Clase y categoría Irritación cutánea. Categoría 2. 
+Irritación cutánea. Categoría 2. 
+Clase y categoría 
 Irritación ocular. Categoría 2. 
 de peligro 
 Líquidos inflamables. Categoría 3. 
@@ -269,7 +270,8 @@ GSH07 (signo de exclamación)
 GSH08 (peligro para la salud)  
 Palabra Peligro 
 Advertencia 
-Indicaciones de EUH 401 - A fin de evitar riesgos para las personas y el medio 
+EUH 401 - A fin de evitar riesgos para las personas y el medio 
+Indicaciones de 
 ambiente, siga las instrucciones de uso. 
 peligro 
 H226 - Líquidos y vapores inflamables. 
@@ -303,16 +305,16 @@ de peligro
 (Medio ambiental) 
 Pictograma 
 GSH09 (medio ambiente)  
+ Página 4 de 5                                102016
+Nº REGISTRO: 
+SHARPEN 33% EC 
+ 
 Atención 
 Palabra 
 Advertencia 
 H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
 Frases de Riesgo 
 duraderos.  
- Página 4 de 5                                92316
-Nº REGISTRO: 
-SHARPEN 33% EC 
- 
 P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
 Consejos 
 previsto) 
@@ -356,4 +358,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 5 de 5                                92316
+ Página 5 de 5                                102016

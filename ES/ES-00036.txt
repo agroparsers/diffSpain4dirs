@@ -59,15 +59,19 @@ g/l
 Limones ADELANTAR MADURACIÓN 0,001 - 2,5 1 
 Mandarinas ADELANTAR MADURACIÓN 0,001 - 2,5 1 
 Melocotones (incluidas las nectarinas e híbridos) ADELANTAR MADURACIÓN 0,001 - 2,5 1 
-Naranjas ADELANTAR MADURACIÓN 0,001 - 2,5 1 
-Plátanos ADELANTAR MADURACIÓN 0,001 - 2,5 1 
-Pomelos ADELANTAR MADURACIÓN 0,001 - 2,5 1 
  
      Página 1 de 4       Nº REGISTRO:   ES-00036  
 FRUTIL
 Nº REGISTRO: 
 FRUTIL 
  
+    
+  Dosis Nº Aplic. 
+USO AGENTE Min-máx. 
+g/l  
+Naranjas ADELANTAR MADURACIÓN 0,001 - 2,5 1 
+Plátanos ADELANTAR MADURACIÓN 0,001 - 2,5 1 
+Pomelos ADELANTAR MADURACIÓN 0,001 - 2,5 1 
   
 Plazos de Seguridad (Protección del consumidor):  
   
@@ -108,22 +112,20 @@ tratamiento antes de la completa ventilación, deberá comprobarse la concentrac
 En el caso de que se exceda el límite de 200 ppm, se deberá usar un equipo de respiración 
 autónomo 
   
+ Página 2 de 4                                102016
+Nº REGISTRO: 
+FRUTIL 
+ 
 Clasificaciones y Etiquetado: 
  
-Gases a presión. 
-Clase y categoría 
+Clase y categoría Gases a presión. 
 Gases licuados. 
 de peligro 
 (Humana) 
 Pictograma 
 GSH04 (bombona de gas)  
-Atención 
-Palabra 
+Palabra Atención 
 Advertencia 
- Página 2 de 4                                92316
-Nº REGISTRO: 
-FRUTIL 
- 
 EUH 401 - A fin de evitar riesgos para las personas y el medio 
 Indicaciones de 
 ambiente, siga las instrucciones de uso. 
@@ -153,8 +155,7 @@ Pictograma
 Palabra 
 Advertencia 
 Frases de Riesgo  
-Consejos 
- 
+Consejos  
 Prudencia 
   
  “A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE 
@@ -168,6 +169,10 @@ Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobr
 de productos fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los 
 envases vacíos o resíduos de envases bien en los puntos de recogida establecidos por los 
 sistemas colectivos de responsabilidad ampliada (SIG) o directamente en el punto de venta 
+ Página 3 de 4                                102016
+Nº REGISTRO: 
+FRUTIL 
+ 
 donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un 
 sistema de depósito, devolución y retorno 
   
@@ -179,10 +184,6 @@ INTRUCCIONES DE USO," en caracteres que resalten el texto.
 SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE. (No limpiar 
 el equipo de aplicación del producto cerca de aguas superficiales/Evitese la contaminación a 
 través de los sistemas de evacuación de aguas de las explotaciones o de los caminos) 
- Página 3 de 4                                92316
-Nº REGISTRO: 
-FRUTIL 
- 
   
 Condiciones de almacenamiento:   
 P410+ P403+P412- Proteger de la luz del sol. Almacenar en un lugar bien ventilado. No 
@@ -193,4 +194,4 @@ Se debe presentar un estudio de vida media a temperatura ambiente y la resistenc
 material de embalaje después de este estudio. 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

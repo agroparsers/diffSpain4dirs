@@ -63,13 +63,13 @@ Usos y dosis autorizados:
 USO AGENTE Min-máx. Vol. Caldo 
 %  
 OIDIO 
-OIDIOPSIS 
-Berenjena 0,1 2 300-1.000 l/Ha. 
-ALTERNARIA 
 CLADOSPORIOSIS 
+Berenjena 0,1 2 300-1.000 l/Ha. 
+OIDIOPSIS 
+ALTERNARIA 
 OIDIO 
 Calabacín ALTERNARIA 0,1 2 300-1.000 l/Ha. 
-ANTRACNOSIS 
+CLADOSPORIOSIS 
  
      Página 1 de 4       Nº REGISTRO:   ES-00056  
 CIDELY TOP
@@ -80,38 +80,38 @@ CIDELY TOP
   Dosis Nº Aplic.  
 USO AGENTE Min-máx. Vol. Caldo 
 %  
-CLADOSPORIOSIS 
+ANTRACNOSIS 
+MICOSFAERELLA 
 MICOSFAERELLA 
 ANTRACNOSIS 
-OIDIO 
 Fresales 0,1 1 300-1.000 l/Ha. 
-ALTERNARIA 
-MICOSFAERELLA 
 OIDIO 
 ALTERNARIA 
-Melón ANTRACNOSIS 0,1 2 300-1.000 l/Ha. 
-CLADOSPORIOSIS 
+OIDIO 
+ALTERNARIA 
+Melón CLADOSPORIOSIS 0,1 2 300-1.000 l/Ha. 
+ANTRACNOSIS 
 MICOSFAERELLA 
 ALTERNARIA 
 OIDIO 
-Pepino ANTRACNOSIS 0,1 2 300-1.000 l/Ha. 
-CLADOSPORIOSIS 
+Pepino CLADOSPORIOSIS 0,1 2 300-1.000 l/Ha. 
+ANTRACNOSIS 
 MICOSFAERELLA 
 OIDIOPSIS 
-OIDIO 
+CLADOSPORIOSIS 
 Pimiento 0,1 2 300-1.000 l/Ha. 
-ALTERNARIA 
-CLADOSPORIOSIS 
 OIDIO 
 ALTERNARIA 
-Sandía ANTRACNOSIS 0,1 2 300-1.000 l/Ha. 
-CLADOSPORIOSIS 
+OIDIO 
+ALTERNARIA 
+Sandía CLADOSPORIOSIS 0,1 2 300-1.000 l/Ha. 
+ANTRACNOSIS 
 MICOSFAERELLA 
 ALTERNARIA 
-OIDIOPSIS 
-Tomate 0,1 2 300-1.000 l/Ha. 
-OIDIO 
 CLADOSPORIOSIS 
+Tomate 0,1 2 300-1.000 l/Ha. 
+OIDIOPSIS 
+OIDIO 
   
 Plazos de Seguridad (Protección del consumidor):  
   
@@ -130,7 +130,7 @@ del producto.
 SPa 1: Para prevenir la aparición de resistencias en oidio, no realizar más de 3 aplicaciones 
 por periodo vegetativo con productos que contengan ciflufenamida 
  
- Página 2 de 4                                92316
+ Página 2 de 4                                102016
 Nº REGISTRO: 
 CIDELY TOP 
  
@@ -190,7 +190,7 @@ P391 - Recoger el vertido.
 P501 - Eliminar el contenido/el recipiente en (De conformidad con la 
 normativa local, regional, nacional o internacional (especifíquese)) 
   
- Página 3 de 4                                92316
+ Página 3 de 4                                102016
 Nº REGISTRO: 
 CIDELY TOP 
  
@@ -224,4 +224,4 @@ cerrado y en un ambiente frío, seco y bien ventilado
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

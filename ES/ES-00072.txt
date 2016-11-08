@@ -79,7 +79,7 @@ l/ha se requiere mezcla en tanque con
 mancozeb (0.3 l Dimix + 1.79 Kg Mancozeb 75 
 % WG). Se desconocen los efectos para la 
 salud humana de la citada mezcla. 
- Página 2 de 6                                92316
+ Página 2 de 6                                102016
 Nº REGISTRO: 
 DIMIX 
  
@@ -100,8 +100,7 @@ plazo de reentrada es de 4 días. Con una dosis
 de aplicación de 0.30 l/ha, 1 aplicación, 
 100-
 volumen de caldo de 100-1000 l/ha se 
-Vid MILDIU 0,34 1 1000 
-  
+Vid MILDIU 0,34 1   1000 
 requiere una aplicación en mezcla en tanque 
 l/ha 
 con mancozeb (0.3 l Dimix + 1.625 Kg 
@@ -117,6 +116,10 @@ de la mezcla en tanque con otros productos.
   
 Plazos de Seguridad (Protección del consumidor):  
   
+ Página 3 de 6                                102016
+Nº REGISTRO: 
+DIMIX 
+ 
 Cultivo P.S. (días) 
 Vid 28 
 Patata 7 
@@ -126,10 +129,6 @@ Fecha de Liberación (Protección de Datos):
  
 Cultivo - Agente Fecha de Liberación 
 Patata,Vid - MILDIU 18/07/2026 
- Página 3 de 6                                92316
-Nº REGISTRO: 
-DIMIX 
- 
  
 Condiciones generales de uso:   
 Aplicar en pulverización foliar normal. En la etiqueta se darán instrucciones para el correcto 
@@ -167,14 +166,18 @@ GSH07 (signo de exclamación)
 Atención 
 Palabra 
 Advertencia 
-Indicaciones de EUH 208 - Contiene <nombre de la sustancia sensibilizante>. Puede 
+ Página 4 de 6                                102016
+Nº REGISTRO: 
+DIMIX 
+ 
+EUH 208 - Contiene <nombre de la sustancia sensibilizante>. Puede 
+Indicaciones de 
 provocar una reacción alérgica. 
 peligro 
 EUH 401 - A fin de evitar riesgos para las personas y el medio 
 ambiente, siga las instrucciones de uso. 
 H302 - Nocivo en caso de ingestión.  
-P261 - Evitar respirar el polvo/el humo/el gas/la niebla/los vapores/ el 
-Consejos de 
+Consejos de P261 - Evitar respirar el polvo/el humo/el gas/la niebla/los vapores/ el 
 aerosol. (El fabricante o el proveedor especificarán las condiciones 
 Prudencia 
 aplicables) 
@@ -183,21 +186,15 @@ el proveedor especificarán las partes del cuerpo que hay que lavar tras
 la manipulación) 
 P280 - Llevar guantes/prendas/gafas/máscara de protección. (El 
 fabricante o el proveedor especificarán el tipo de equipo) 
- Página 4 de 6                                92316
-Nº REGISTRO: 
-DIMIX 
- 
 Acuático crónico 2 
 Clase y categoría 
 de peligro 
 (Medio ambiental) 
 Pictograma 
 GSH09 (medio ambiente)  
--- 
-Palabra 
+Palabra -- 
 Advertencia 
-H411 - Tóxico para los organismos acuáticos, con efectos nocivos 
-Frases de Riesgo 
+Frases de Riesgo H411 - Tóxico para los organismos acuáticos, con efectos nocivos 
 duraderos.  
 P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
 Consejos 
@@ -228,6 +225,10 @@ envases vacíos o resíduos de envases bien en los puntos de recogida establecid
 sistemas colectivos de responsabilidad ampliada (SIG) o directamente en el punto de venta 
 donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un 
 sistema de depósito, devolución y retorno 
+ Página 5 de 6                                102016
+Nº REGISTRO: 
+DIMIX 
+ 
   
 Otras indicaciones reglamentarias:   
 "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE SIGA LAS 
@@ -241,11 +242,7 @@ Se desconocen los efectos para la salud humana de la mezcla en tanque con otros 
   
 Condiciones de almacenamiento: -- 
   
- Página 5 de 6                                92316
-Nº REGISTRO: 
-DIMIX 
- 
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 6 de 6                                92316
+ Página 6 de 6                                102016

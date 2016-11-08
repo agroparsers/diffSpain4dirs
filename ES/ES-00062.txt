@@ -64,7 +64,7 @@ máx. Caldo (Condic.Específico)
 l/ha  
 Aplicar desde el comienzo del 
 100-400 
-Avena HELMINTOSPORIUM 0,6 - 1 2 14 encañado (BBCH 30) al comienzo 
+Avena RINCOSPORIUM 0,6 - 1 2 14 encañado (BBCH 30) al comienzo 
 l/ha 
 de la floración (BBCH 61). 
  
@@ -78,40 +78,45 @@ AVIATOR XPRO
 USO AGENTE Min- Aplic. Intervalos Vol. APLICACIÓN 
 máx. Caldo (Condic.Específico) 
 l/ha  
-RINCOSPORIUM 
 HELMINTOSPORIUM 
+RINCOSPORIUM 
 Aplicar desde el comienzo del 
 100-400 
 Cebada 0,6 - 1 2 14 encañado (BBCH 30) al comienzo 
 l/ha 
 de la floración (BBCH 61). 
-RINCOSPORIUM 
+HELMINTOSPORIUM 
+SEPTORIA 
+OIDIO 
 ROYA PARDA 
-ROYA AMARILLA 
-FUSARIUM 
 Aplicar desde el comienzo del 
 0,8 - 100-400 
 Trigo 2 14 encañado (BBCH 30) al fin de la 
 1,25 l/ha 
 floración (BBCH 69). 
-OIDIO 
-SEPTORIA 
-RINCOSPORIUM 
-OIDIO 
-ROYA PARDA 
 ROYA AMARILLA 
+RINCOSPORIUM 
+FUSARIUM 
+SEPTORIA 
 Aplicar desde el comienzo del 
 0,8 - 100-400 
 Triticale 2 14 encañado (BBCH 30) al fin de la 
 1,25 l/ha 
 floración (BBCH 69). 
-FUSARIUM 
-RINCOSPORIUM 
-SEPTORIA 
- Página 2 de 6                                92316
+OIDIO 
+ Página 2 de 6                                102016
 Nº REGISTRO: 
 AVIATOR XPRO 
  
+       
+  Dosis Nº   FORMA Y ÉPOCA DE 
+USO AGENTE Min- Aplic. Intervalos Vol. APLICACIÓN 
+máx. Caldo (Condic.Específico) 
+l/ha  
+ROYA PARDA 
+ROYA AMARILLA 
+RINCOSPORIUM 
+FUSARIUM 
   
 Plazos de Seguridad (Protección del consumidor):  
   
@@ -122,13 +127,13 @@ Avena, Cebada, Trigo, Triticale NP
 Fecha de Liberación (Protección de Datos): 
  
 Cultivo - Agente Fecha de Liberación 
-Avena,Cebada - HELMINTOSPORIUM 28/03/2026 
 Avena,Cebada,Trigo,Triticale - RINCOSPORIUM 28/03/2026 
+Avena,Cebada - HELMINTOSPORIUM 28/03/2026 
+Trigo,Triticale - SEPTORIA 28/03/2026 
+Trigo - OIDIO 28/03/2026 
 Trigo,Triticale - ROYA PARDA 28/03/2026 
 Trigo,Triticale - ROYA AMARILLA 28/03/2026 
 Trigo,Triticale - FUSARIUM 28/03/2026 
-Trigo - OIDIO 28/03/2026 
-Trigo,Triticale - SEPTORIA 28/03/2026 
  
 Condiciones generales de uso:   
 Aplicar en pulverización normal con tractor con cabina cerrada. 
@@ -140,6 +145,10 @@ Excepciones: --
   
 Clase de usuario:   
 Uso reservado a agricultores y aplicadores profesionales 
+ Página 3 de 6                                102016
+Nº REGISTRO: 
+AVIATOR XPRO 
+ 
   
 Mitigación de riesgos en la manipulación:   
 El aplicador deberá utilizar guantes RPE (FFP3) y mono tipo 4 (que protege frente a 
@@ -160,18 +169,12 @@ de peligro
 única. Categoría 3. 
 (Humana) 
 Tóxicos para la reproducción. Categoría 2. 
- Página 3 de 6                                92316
-Nº REGISTRO: 
-AVIATOR XPRO 
- 
 Pictograma 
 GSH07 (signo de exclamación)  
 GSH08 (peligro para la salud)  
-Atención 
-Palabra 
+Palabra Atención 
 Advertencia 
-EUH 066 - La exposición repetida puede provocar sequedad o 
-Indicaciones de 
+Indicaciones de EUH 066 - La exposición repetida puede provocar sequedad o 
 formación de grietas en la piel. 
 peligro 
 EUH 208 - Contiene <nombre de la sustancia sensibilizante>. Puede 
@@ -184,7 +187,8 @@ H361 - Se sospecha que perjudica la fertilidad o daña al feto <indíquese
 el efecto específico si se conoce> <indíquese la vía de exposición si se 
 ha demostrado concluyentemente que el peligro no se produce por 
 ninguna otra vía>.  
-Consejos de P202 - No manipular la sustancia antes de haber leído y comprendido 
+P202 - No manipular la sustancia antes de haber leído y comprendido 
+Consejos de 
 todas las instrucciones de seguridad. 
 Prudencia 
 P261 - Evitar respirar el polvo/el humo/el gas/la niebla/los vapores/ el 
@@ -197,6 +201,10 @@ P305+P351+P338 - EN CASO DE CONTACTO CON LOS OJOS: Aclarar
 cuidadosamente con agua durante varios minutos. Quitar las lentes de 
 contacto, si lleva y resulta fácil. Seguir aclarando. 
 P405 - Guardar bajo llave. 
+ Página 4 de 6                                102016
+Nº REGISTRO: 
+AVIATOR XPRO 
+ 
 Acuático crónico 1 
 Clase y categoría 
 de peligro 
@@ -209,7 +217,8 @@ Advertencia
 H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
 Frases de Riesgo 
 duraderos.  
-Consejos P201 - Pedir instrucciones especiales antes del uso. 
+P201 - Pedir instrucciones especiales antes del uso. 
+Consejos 
 P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
 Prudencia 
 previsto) 
@@ -219,10 +228,6 @@ normativa local, regional, nacional o internacional (especifíquese))
   
  “A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE 
 SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el texto. 
- Página 4 de 6                                92316
-Nº REGISTRO: 
-AVIATOR XPRO 
- 
 Mitigación de riesgos ambientales:   
 SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad 
 de 10 metros con cubierta vegetal en cereales de primavera y 20 metros con cubierta vegetal 
@@ -254,6 +259,10 @@ productos
 Condiciones de almacenamiento: -- 
   
 Requerimiento de datos/estudios complementarios:   
+ Página 5 de 6                                102016
+Nº REGISTRO: 
+AVIATOR XPRO 
+ 
 Requerimiento de datos/Estudios complementarios: Sección 1: La estabilidad en el 
 almacenamiento después de 14 días a 54 ºC y la vida media a Tª ambiente: Para la 
 autorizaicón del producto Aviator XPRO es necesaria la presentación de los resultados del 
@@ -275,10 +284,6 @@ aprobación del producto fitosanitrio, el notificador deberá aportar un anális
 independiente para TDMs tan pronto como sean evaluados los datos confirmatorios 
 solicitados para compuestos de triazol. Sección 5: PECGW: El metabolito M44 excede el valor 
 de límite de 0,1 mg/L. La concentración máxima de agua potable corresponde a 0,144 % del 
- Página 5 de 6                                92316
-Nº REGISTRO: 
-AVIATOR XPRO 
- 
 valor MAC para adultos y 1 % de la MAC para los niños cuando se considera sólo la ingesta 
 de agua potable. El impacto de otras vías de ingesta no se evalúa; esta conclusión debe ser 
 revisada cuando esté disponible la información sobre el estudio, que comenzó en 2013, del 
@@ -288,4 +293,4 @@ estudios de residuos en cultivos sucesivos. Sección 7: Se requieren ensayos adi
 cebada para confirmar la eficacia contra Rynchosporium secalis. 
   
  
- Página 6 de 6                                92316
+ Página 6 de 6                                102016

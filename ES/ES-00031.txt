@@ -61,9 +61,9 @@ Usos y dosis autorizados:
   Dosis 
 USO AGENTE Min-máx. 
 %  
+MILDIU 
+Vid BLACK-ROT 0,2 
 EXCORIOSIS 
-Vid MILDIU 0,2 
-BLACK-ROT 
   
 Plazos de Seguridad (Protección del consumidor):  
   
@@ -123,7 +123,7 @@ H373 - Puede provocar daños en los órganos <indíquense todos los
 órganos afectados, si se conocen> tras exposiciones prolongadas o 
 repetidas <indíquese la vía de exposición si se ha demostrado 
 concluyentemente que el peligro no se produce por ninguna otra vía>.  
- Página 2 de 3                                92316
+ Página 2 de 3                                102016
 Nº REGISTRO: 
 PASADOBLE 
  
@@ -183,4 +183,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 3 de 3                                92316
+ Página 3 de 3                                102016

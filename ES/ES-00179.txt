@@ -26,18 +26,18 @@ Fecha de caducidad: 31/10/2018
 Titular  
 Fabricante 
 AGROFRESH HOLDING 
- ROHM AND HAAS COMPANY 
+ AGROFRESH HOLDING FRANCE 
 FRANCE S.A.S. 
-100 Independence Mall West 
+S.A.S. 
  
 23-25 avenue Mac-
-19106 Philadelphia 
+23-25 avenue Mac-Mahon 
  
 Mahon 
-(Pennsylvania) 
+75017 PARIS 
  
 75017 PARIS 
-ESTADOS UNIDOS 
+Francia 
  
 Francia 
  
@@ -73,14 +73,14 @@ máx. (Condic.Específico)
 g/m3  
 Aplicar tan pronto 
  
-REGULAR 
 como sea posible, 
+REGULAR 
 Ciruelas 0,084 1 
-CRECIMIENTO 
 después de la cosecha 
+CRECIMIENTO 
 y no más tarde de 7 
-Aplicar tan pronto como sea posible, 
 días. 
+Aplicar tan pronto como sea posible, 
 REGULAR 
 Manzanas 0,105 3 24 horas después de la cosecha y no más tarde 
 CRECIMIENTO 
@@ -123,20 +123,19 @@ Excepciones: --
 Clase de usuario:   
 Uso reservado a agricultores y aplicadores profesionales 
   
-Mitigación de riesgos en la manipulación:   
-El aplicador deberá utilizar guantes de protección química y ropa de trabajo adecuada durante 
-la mezcla/carga y aplicación en base a las buenas prácticas agrícolas. 
- Página 2 de 4                                92316
+ Página 2 de 4                                102016
 Nº REGISTRO: 
 SMARTFRESH PROTABS 
  
+Mitigación de riesgos en la manipulación:   
+El aplicador deberá utilizar guantes de protección química y ropa de trabajo adecuada durante 
+la mezcla/carga y aplicación en base a las buenas prácticas agrícolas. 
 SPo 5: Ventilar los almacenes tratados tratados mediante ventiladores de refrigeración 
 funcionando a la máxima potencia durante 15 minutos antes de volver a entrar 
   
 Clasificaciones y Etiquetado: 
  
-Irritación cutánea. Categoría 2. 
-Clase y categoría 
+Clase y categoría Irritación cutánea. Categoría 2. 
 Irritación ocular. Categoría 2. 
 de peligro 
 Sensibilizantes cutáneos. Categoría 1 B. 
@@ -145,7 +144,8 @@ Pictograma
 GSH07 (signo de exclamación)  
 Palabra Atención 
 Advertencia 
-Indicaciones de EUH 401 - A fin de evitar riesgos para las personas y el medio 
+EUH 401 - A fin de evitar riesgos para las personas y el medio 
+Indicaciones de 
 ambiente, siga las instrucciones de uso. 
 peligro 
 H315 - Provoca irritación cutánea. 
@@ -166,8 +166,7 @@ jabón abundantes.
 P305+P351+P338 - EN CASO DE CONTACTO CON LOS OJOS: Aclarar 
 cuidadosamente con agua durante varios minutos. Quitar las lentes de 
 contacto, si lleva y resulta fácil. Seguir aclarando. 
-Acuático crónico 2 
-Clase y categoría 
+Clase y categoría Acuático crónico 2 
 Acuático crónico 3 
 de peligro 
 (Medio ambiental) 
@@ -186,13 +185,13 @@ Prudencia
 P391 - Recoger el vertido. 
 P501 - Eliminar el contenido/el recipiente en (De conformidad con la 
 normativa local, regional, nacional o internacional (especifíquese)) 
-  
- “A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE 
-SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el texto. 
- Página 3 de 4                                92316
+ Página 3 de 4                                102016
 Nº REGISTRO: 
 SMARTFRESH PROTABS 
  
+  
+ “A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE 
+SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el texto. 
 Mitigación de riesgos ambientales: -- 
   
  Eliminación Producto y/o caldo:   
@@ -215,4 +214,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

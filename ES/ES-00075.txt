@@ -122,7 +122,7 @@ P302+P352 - EN CASO DE CONTACTO CON LA PIEL: Lavar con agua y
 jabón abundantes. 
 P308+P313 - EN CASO DE exposición manifiesta o presunta: Consultar a 
 un médico. 
- Página 2 de 3                                92316
+ Página 2 de 3                                102016
 Nº REGISTRO: 
 NOMATE CM SPIRAL 
  
@@ -173,4 +173,4 @@ mantenerse a temperaturas por debajo de 8 ºC
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 3 de 3                                92316
+ Página 3 de 3                                102016

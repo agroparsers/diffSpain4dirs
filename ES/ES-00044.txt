@@ -63,12 +63,12 @@ Usos y dosis autorizados:
   Dosis Nº Aplic.   
 USO AGENTE Min-máx. Intervalos Vol. Caldo 
 Kg/ha  
+BLACK-ROT 
 BOTRITIS 
+MILDIU 
+Vid 1,5 10 10 100-1.000 l/Ha. 
 FOMOPSIS 
 PODREDUMBRE NEGRA 
-Vid 1,5 10 10 100-1.000 l/Ha. 
-ENROJECIMIENTO PARASITARIO 
-BLACK-ROT 
  
      Página 1 de 4       Nº REGISTRO:   ES-00044  
 FOLDER 80 WG
@@ -79,7 +79,7 @@ FOLDER 80 WG
   Dosis Nº Aplic.   
 USO AGENTE Min-máx. Intervalos Vol. Caldo 
 Kg/ha  
-MILDIU 
+ENROJECIMIENTO PARASITARIO 
   
 Plazos de Seguridad (Protección del consumidor):  
   
@@ -113,8 +113,7 @@ Los trabajadores deberán llevar guantes cuando realicen operaciones en los viñ
   
 Clasificaciones y Etiquetado: 
  
-Carcinogenicidad. Categoría 2. 
-Clase y categoría 
+Clase y categoría Carcinogenicidad. Categoría 2. 
 Lesión ocular grave. Categoría 1. 
 de peligro 
 Sensibilizantes cutáneos. Categoría 1. 
@@ -124,7 +123,7 @@ Pictograma
 GSH05 (corrosión)  
 GSH07 (signo de exclamación)  
 GSH08 (peligro para la salud)  
- Página 2 de 4                                92316
+ Página 2 de 4                                102016
 Nº REGISTRO: 
 FOLDER 80 WG 
  
@@ -185,7 +184,7 @@ SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda 
 de 20 m. hasta las masas de agua superficial 
   
  Eliminación Producto y/o caldo: -- 
- Página 3 de 4                                92316
+ Página 3 de 4                                102016
 Nº REGISTRO: 
 FOLDER 80 WG 
  
@@ -208,4 +207,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

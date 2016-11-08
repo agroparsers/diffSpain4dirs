@@ -66,15 +66,20 @@ Al aire libre. Primera aplicación después
 Lechuga MILDIU 3 1 1000 l/ha 
   
 de la floración (desde BBCH 13-15) 
-En invernadero. Primera aplicación 
-Tomate MILDIU 2,4 - 3 2 10 1000 l/ha después de la floración (desde BBCH 61-
-69) 
  
      Página 1 de 4       Nº REGISTRO:   ES-00085  
 CYCLO R LIQUIDO
 Nº REGISTRO: 
 CYCLO R LIQUIDO 
  
+       
+  Dosis Nº   FORMA Y ÉPOCA DE 
+USO AGENTE Min- Aplic. Intervalos Vol. APLICACIÓN 
+máx. Caldo (Condic.Específico) 
+l/ha  
+En invernadero. Primera aplicación 
+Tomate MILDIU 2,4 - 3 2 10 1000 l/ha después de la floración (desde BBCH 61-
+69) 
   
 Plazos de Seguridad (Protección del consumidor):  
   
@@ -113,18 +118,17 @@ No entrar en los cultivos tratados hasta que se haya secado la pulverización
   
 Clasificaciones y Etiquetado: 
  
-Clase y categoría 
- 
-de peligro 
-(Humana) 
-Pictograma 
- 
-Palabra -- 
-Advertencia 
- Página 2 de 4                                92316
+ Página 2 de 4                                102016
 Nº REGISTRO: 
 CYCLO R LIQUIDO 
  
+Clase y categoría  
+de peligro 
+(Humana) 
+Pictograma  
+-- 
+Palabra 
+Advertencia 
 EUH 208 - Contiene <nombre de la sustancia sensibilizante>. Puede 
 Indicaciones de 
 provocar una reacción alérgica. 
@@ -134,13 +138,15 @@ EUH 401 - A fin de evitar riesgos para las personas y el medio
 ambiente, siga las instrucciones de uso.  
 Consejos de P262 - Evitar el contacto con los ojos, la piel o la ropa. 
 Prudencia 
-Clase y categoría Acuático agudo 1 
+Acuático agudo 1 
+Clase y categoría 
 Acuático crónico 1 
 de peligro 
 (Medio ambiental) 
 Pictograma 
 GSH09 (medio ambiente)  
-Palabra Atención 
+Atención 
+Palabra 
 Advertencia 
 H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
 Frases de Riesgo 
@@ -174,18 +180,18 @@ donde se hubiera adquirido si dichos envases se han puesto en el mercado a trav�
 sistema de depósito, devolución y retorno 
   
 Otras indicaciones reglamentarias:   
+ Página 3 de 4                                102016
+Nº REGISTRO: 
+CYCLO R LIQUIDO 
+ 
 SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE. (No limpiar 
 el equipo de aplicación del producto cerca de aguas superficiales/Evitese la contaminación a 
 través de los sistemas de evacuación de aguas de las explotaciones o de los caminos). 
 En la etiqueta se hará constar que "contiene metalaxil. Puede provocar una reacción alérgica. 
   
 Condiciones de almacenamiento: -- 
- Página 3 de 4                                92316
-Nº REGISTRO: 
-CYCLO R LIQUIDO 
- 
   
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

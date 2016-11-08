@@ -66,7 +66,7 @@ Efectuar una aplicación por campaña, con un volumen de caldo de 400-
 Alcachofa OIDIO 1,67 
 1.000 l/Ha. 
  
-     Página 1 de 7       Nº REGISTRO:   ES-00027  
+     Página 1 de 8       Nº REGISTRO:   ES-00027  
 SYSTHANE ECOZOME
 Nº REGISTRO: 
 SYSTHANE ECOZOME 
@@ -98,12 +98,7 @@ Efectuar hasta 3 aplicaciones a intervalos de 10 días, con un volumen de
 Florales 1,65 
 caldo de 500-1.000 l/Ha. observando un plazo de reentrada de 3 días. 
 ROYA 
-Aire libre e invernadero. Efectuar hasta 3 aplicaciones por campaña a 
-0,53 - 
-Fresales OIDIO intervalos de 7 días con un volumen de caldo de 400-1.000 l/Ha., 
-1,33 
-observando un plazo de reentrada de 3 días. 
- Página 2 de 7                                92316
+ Página 2 de 8                                102016
 Nº REGISTRO: 
 SYSTHANE ECOZOME 
  
@@ -112,6 +107,11 @@ SYSTHANE ECOZOME
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 l/ha  
+Aire libre e invernadero. Efectuar hasta 3 aplicaciones por campaña a 
+0,53 - 
+Fresales OIDIO intervalos de 7 días con un volumen de caldo de 400-1.000 l/Ha., 
+1,33 
+observando un plazo de reentrada de 3 días. 
 0,66 - 
 OIDIO 
 1,38 
@@ -134,12 +134,7 @@ caldo de 400-1.000 l/Ha. observando un plazo de reentrada de 3 días.
 Efectuar hasta 3 aplicaciones a intervalos de 10 días con un volumen de 
 Nogal ANTRACNOSIS 1,38 
 caldo 500-1.500 l/Ha. 
-OIDIO 
-Efectuar hasta 3 aplicaciones a intervalos de 10 días, con un volumen de 
-Rosal 1,65 
-caldo de 500-1.000 l/Ha. observando un plazo de reentrada de 3 días. 
-ROYA 
- Página 3 de 7                                92316
+ Página 3 de 8                                102016
 Nº REGISTRO: 
 SYSTHANE ECOZOME 
  
@@ -148,6 +143,11 @@ SYSTHANE ECOZOME
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 l/ha  
+OIDIO 
+Efectuar hasta 3 aplicaciones a intervalos de 10 días, con un volumen de 
+Rosal 1,65 
+caldo de 500-1.000 l/Ha. observando un plazo de reentrada de 3 días. 
+ROYA 
 Solo invernadero, efectuar hasta 3 aplicaciones por campaña a 
 Solanáceas OIDIO 1,67 intervalos de 8 días, con un volumen de caldo de 400-1.000 l/Ha. 
 observando un plazo de reentrada de 3 días. 
@@ -158,10 +158,18 @@ Vid volumen de caldo de 150-1.300 l/Ha. observando un plazo de reentrada
 1,61 
 de 3 días. 
 BLACK-ROT 
-OIDIO 
 Efectuar 3 aplicaciones por campaña hasta la aparición de los órganos 
-Viveros 1,67 florales, a intervalos de 10 días con un volumen de caldo de 500-1.000 
+Viveros OIDIO 1,67 florales, a intervalos de 10 días con un volumen de caldo de 500-1.000 
 l/Ha. observando un plazo de reentrada de 10 días. 
+ Página 4 de 8                                102016
+Nº REGISTRO: 
+SYSTHANE ECOZOME 
+ 
+    
+  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
+USO AGENTE Min- (Condic.Específico) 
+máx. 
+l/ha  
 ROYA 
   
 Plazos de Seguridad (Protección del consumidor):  
@@ -177,10 +185,6 @@ Arbustos ornamentales, Florales, Rosal, Viveros NP
  
  
 Condiciones generales de uso:   
- Página 4 de 7                                92316
-Nº REGISTRO: 
-SYSTHANE ECOZOME 
- 
 Aplicar en pulverización foliar a la aparición de la enfermedad manualmente o mediante 
 equipos mecanizados. No aplicar si se preveen lluvias en las próximas 6 horas 
  
@@ -203,6 +207,10 @@ En caso de ser necesario un mayor nº de aplicaciones a las indicadas, éstas de
 con productos que no sean de la misma familia química. 
 Si el tractor no está equipado de cabina cerrada y/o boquillas de baja deriva se utilizará la 
 ropa de protección antes indicada. Durante la limpieza del equipo se utilizará la misma 
+ Página 5 de 8                                102016
+Nº REGISTRO: 
+SYSTHANE ECOZOME 
+ 
 protección que en la aplicación. No entrar al cultivo hasta que el producto esté seco. En 
 invernadero cuando el cultivo supere el metro de altura la anchura libre entre líneas deberá 
 ser superior a 1,2 m. 
@@ -224,12 +232,9 @@ Tóxicos para la reproducción. Categoría 2.
 Pictograma 
 GSH07 (signo de exclamación)  
 GSH08 (peligro para la salud)  
-Palabra Peligro 
+Peligro 
+Palabra 
 Advertencia 
- Página 5 de 7                                92316
-Nº REGISTRO: 
-SYSTHANE ECOZOME 
- 
 H304 - Puede ser mortal en caso de ingestión y penetración en las vías 
 Indicaciones de 
 respiratorias. 
@@ -261,15 +266,19 @@ contacto, si lleva y resulta fácil. Seguir aclarando.
 Clase y categoría Acuático crónico 2 
 de peligro 
 (Medio ambiental) 
+ Página 6 de 8                                102016
+Nº REGISTRO: 
+SYSTHANE ECOZOME 
+ 
 Pictograma 
 GSH09 (medio ambiente)  
-Palabra -- 
+-- 
+Palabra 
 Advertencia 
 H411 - Tóxico para los organismos acuáticos, con efectos nocivos 
 Frases de Riesgo 
 duraderos.  
-P201 - Pedir instrucciones especiales antes del uso. 
-Consejos 
+Consejos P201 - Pedir instrucciones especiales antes del uso. 
 P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
 Prudencia 
 previsto) 
@@ -285,10 +294,6 @@ crecimiento de los brotes.
 SPe 6: Para proteger a mamíferos, en cultivos hortícolas y ornamentales se restringe el uso 
 a partir de la aparición de los órganos florales. 
 SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad 
- Página 6 de 7                                92316
-Nº REGISTRO: 
-SYSTHANE ECOZOME 
- 
 de 15 m. en frutales y 10 en cultivos hortícolas, ornamentales y fresa hasta las masas de 
 agua superficial 
   
@@ -317,5 +322,9 @@ Condiciones de almacenamiento: --
   
 Requerimiento de datos/estudios complementarios: -- 
   
+ Página 7 de 8                                102016
+Nº REGISTRO: 
+SYSTHANE ECOZOME 
  
- Página 7 de 7                                92316
+ 
+ Página 8 de 8                                102016
